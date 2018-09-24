@@ -1,0 +1,544 @@
+# Annex 1: Species Profiles {#species}
+
+In this section we provide additional reference material for top species covered in this report. Links to patent collections in the Lens database are provided to facilitate exploration of wider patent activity for the species. 
+
+## *Clarias macrocephalus*
+
+- **Species name:** *Clarias macrocephalus*
+- **Kingdom:** Animalia   
+- **Phylum:** Chordata [GBIF](https://www.gbif.org/species/5202728)
+  
+**Brief Description of the Species:**  
+*Clarias macrocephalus* lives in lowland wetlands and rivers - occurs in shallow, open water including sluggish flowing canals and flooded fields of the Mekong, and is capable of lying buried in mud for lengthy period if ponds and lakes evaporate during dry seasons. *Clarias macrocephalus* can move out of the water using its extended fins (http://eol.org/pages/211498/overview). Spawns in small streams between May and October (http://www.fao.org/docrep/field/003/ac231e/AC231E03.htm).
+
+There are 5 catfish species found in Thailand with two of them being eaten by people: *C.macrocephalus* and *C. batrachus*. *C.macrocephalus* is considered to be the tastiest of the 2 by Thai people but is the more difficult of the two to cultivate (http://www.fao.org/docrep/field/003/ac231e/AC231E03.htm). Presently a hybrid created using  *C.macrocephalus* females and males of the African *C. gariepinus* are farmed in Thailand on a large-scale coming 1st in terms of farmed freshwater fish with a production of 86 475 tonnes or 30 percent of total production. It has recently been suggested production of the hybrid catfish is decreasing which may be due to the quality of the male African catfish which was introduced into Thailand a long time ago.[National Aquaculture Sector Overview Thailand]](National Aquaculture Sector Overview Thailand).
+
+*C.macrocephalus* is listed as near threatened by the IUCN - populations have been impacted by the loss of suitable wetland habitat through drainage and clearance for urbanisation and agriculture, as well as exploitation for aquaculture. In addition escaped hybrids from cultivation, are causing some concern.[IUCN Redlist](http://www.iucnredlist.org/details/166020/0)
+
+**Known Distribution of the Species**  
+*Clarias macrocephalus* is native to the Indochina peninsular: Vietnam, Cambodia and Laos as well as Thailand, and Malaysia. (http://www.fao.org/docrep/field/003/ac231e/AC231E03.htm)(http://www.iucnredlist.org/details/full/166020/0). *Clarias macrocephalus* has also been recorded in Myanmar, Japan, China, Indonesia (Sumatra), Guam and the Philippines, but these are considered misidentifications or introductions (http://www.iucnredlist.org/details/full/166020/0). It is not commonly cultivated - although a hybrid of it is - but interest in farming it is on the increase.(http://eol.org/pages/211498/overview). 
+
+![Photo of *C.macrocephalus* by FiMSeA, on http://ffish.asia"](images_species/152_Clarias_macrocephalus_CTU-P00116.jpg)
+
+
+**First description**  
+*Clarias macrocephalus*, commonly known as the bighead catfish, was first described by [Günther in 1864](https://www.gbif.org/species/5202728). 
+
+### Scientific Research on the Species in the ASEAN Region
+
+**Research categories**  
+Much of the research on *Clarias macrocephalus* in the region is categorised as Fisheries (20), Marine and Freshwater Biology (15), and Biochemistry & Molecular Biology (4).   
+
+**Research summary**  
+*Clarias macrocephalus* is an economically important fish in Thailand and is increasingly being cultivated in aquaculture settings(10.1016/j.aquaculture.2004.08.001). However *C. macrocephalus* doesn't cultivate well and also has a near threatened status across its wild population range because of habitat loss; as such much of the research effort is at identifying ways to increase production in aquaculture and minimise harm to the wild population. 
+
+A genetic population study examined the success of crosses between males of various strains of the fast growing African catfish *C. gariepinus* and females of strains of *C. macrocephalus* - which has tastier flesh - and found some hybrid strains had greater absolute growth rate than others (10.1016/j.aquaculture.2013.12.023). The use of hybrids has led to some conservation concerns in Thailand regarding the wild population of *C. macrocephalus* becoming back crossed with artificially created hybrids that have escaped from cultured systems. A study in Thailand took DNA samples from 25 natural populations of *C. macrocephalus* from across the country - they found 12 of the populations contained alleles in them from the African *C. gariepinus*(10.1016/j.aquaculture.2004.08.001). The hybrid is able to breed with both species which could lead to species extinction and also grows faster than *C. macrocephalus* and so might out-compete the native stock for resources (Na-Nakorn 2004). 
+
+Hara, M. et al., 1998, examined genetic distance in 4 wild populations in Thailand, they found two population groups, which were Chiangrai-Prachinburi and Pattani-Yala group and genetic distance was larger within the first group than those within the second group.
+
+Much of the research literature is focussed on maximising yield in aquaculture settings through studying immunity to pathogens,  as well as factors affecting growth and reproduction. Bacterial infection by *Aeromonas hydrophila* increased expression of the gene 'HSC70-2' in the tissues of *C. macrocephalus*  which may relate to the role of HSC70-2 in the immune response of the species (10.1111/are.12076). Poompuang, S. et al 2012 found the C3 protein produced in the liver of *C. macrocephalus* had an essential role in immunity – furthermore an increase in C3 was induced by beta glucan in the diet of the fish.
+
+The effect of stocking densities in aquacultures was investigated and found to be density dependent - *C. macrocephalus*  fry reared at 285 m(-3) in tanks and at 114 m(-3) in ponds had significantly faster growth rates than fish reared at higher densities (10.1046/j.1365-2109.2002.00763.x). Myostatin levels were found to have a negative feedback effect, rising levels reducing growth rate in larvae of *C. macrocephalus* when they were fasted for a period of time (10.1007/s10695-014-0015-8). 
+
+Methods of increasing reproduction, whilst minimising numbers of broodstock were investigated in the literature - as numbers of *C. macrocephalus* are limited. One study examined 5 forms of Gonadotropin releasing hormones to see the efficacy at stimulating ovulation in *C. macrocephalus*. Chicken GnRH was most effective as identical to catfish Gn RH (10.1016/0167-0115(92)90024-O). Another study looked at the success of using irradiated sperm of another fish species for gynogenesis - creating offspring with only the mothers DNA (10.1016/j.aquaculture.2004.02.032 ). Another study examined the properties required to create artificial seminal plasma to be able to dilute *C. macrocephalus* milt whilst still giving high fertilisation success of eggs -so less males are sacrificed during artificial insemination (10.1016/S0044-8486(98)00402-5). *Clarias macrocephalus*, harvested from irrigated rice fields in Malaysia, showed that spawning changes with water level (10.1007/BF00014311).
+
+What to feed  *Clarias macrocephalus* in culture was looked at by Bolivar, M.  and Fermin, AC., 1996, who found that catfish larvae can be given a dry diet, but growth rate is higher if live feed - artemia - is given prior to the dry formula diet.
+
+**Aquatic or marine?**  
+In a sector review of aquaculture in Thailand by the FAO *Clarias macrocephalus* and its hybrid with *C. gariepinus* are listed as freshwater species, not listed within the commercial brackish water production section of the report. [There has been some discussion of the possibility of introducing some catfish species] (https://www.researchgate.net/profile/Douglas_Clay/publication/313167412_Preliminary_observations_on_salinity_tolerance_of_Clarias_lazera_from_Israel/links/58d73761aca2727e5ee94ab6/Preliminary-observations-on-salinity-tolerance-of-Clarias-lazera-from-Israel.pdf) into brackish water aquaculture to make use of available coastal locations, but I didn't find any reference to this having occurred for this species. 
+
+**Is there a description of any research locations that you can identify?**  
+
+A conservation biology study in Thailand took DNA samples from 25 natural populations of *C. macrocephalus* from across the country including- 12 populations from provinces located in the Chaophraya river basin in the centre of the country, 5 from the Mekong river basin, 1 from the east and 7 from the south of Thailand - they found 12 of the populations contained alleles in them from the African *C. gariepinus*(10.1016/j.aquaculture.2004.08.001). Another genetic study in Thailand OF *C. macrocephalus*, by Hara, M. et al in 1998, assayed 14 proteins across 4 wild populations from the north (Chiangrai), central (Prachinburi) and south (Pattani and Yala) of Thailand.  
+
+In 1987, *C. macrocephalus* were sampled monthly from the rice fields, sump ponds and irrigation canals of North Kerian area up to about the latitude 5°45', Northwestern Peninsular Malaysia the fish are considered as one population 10.1007/BF00014311. 
+
+### Patent activity
+
+There are only 2 patent documents for *C. macrocephalus*, the most commonly cited [patent being for a specialized feed for sensitive organisms, especially larvae or juvenile forms of farmed aquatic organisms and the method of producing the feed.](https://www.lens.org/lens/patent/WO_2008_084074_A2).
+  
+  The other *C. macrocephalus* [patent document is for the use of vitamin K3 for treatment of parasitic disease in an individual, such as an animal or human being. Vitamin K3 has been found to be effective in the treatment of fish suffering from parasite infestation](https://www.lens.org/lens/patent/WO_2009_063044_A1).
+
+[Lens collection](https://www.lens.org/lens/collection/24937)
+
+
+## *Lates calcarifer*
+**Species name:** *Lates calcarifer*
+**Kingdom:** Animalia 
+**Phylum:** Chordata [GBIF](https://www.gbif.org/species/2223871)
+  
+**Brief Description of the Species:**  
+The barramundi or Asian seabass (*Lates calcarifer*) is a widely distributed species of salt and freshwater sportfish, with large, silver scales, which can change shade, depending on their environments. *L. calcarifer* bodies can reach up to 1.8 m (6 ft) long, and the maximum weight is about 60 kg (130 lb). The average length is about 0.6-1.2 m (2–4 ft). It is very popular in Thai cuisine (http://eol.org/pages/204766/overview).
+
+*Lates calcarifer* are demersal, inhabiting coastal waters, estuaries, lagoons, and rivers; they are found in clear to turbid water, usually within a temperature range of 26−30 °C. This species does not undertake extensive migrations within or between river systems, which has presumably influenced establishment of genetically distinct stocks in Northern Australia.
+<!--- check that this is the correct CC image as title in folder is different--->
+![By Mitch Ames, Licensed under Creative Commons Attribution](images_species/152_Clarias_macrocephalus_CTU-P00116.jpg)
+
+
+**Known Distribution of the Species**  
+*Lates calcarifer* are a widely distributed species - from the Persian Gulf, through Southeast Asia to Papua New Guinea and Northern Australia (http://eol.org/pages/204766/overview).
+
+**First description**  
+[*Lates calcarifer* first descibed by German scientist Bloch, in 1790, and orginally named *Holocentrus calcarifer*](https://www.gbif.org/species/2393172) .
+
+### Scientific Research on the Species 
+
+**Research categories**  
+Much of the research on *Lates calcarifer* is categorised as Fisheries (53), Marine and Freshwater Biology (45), Veterinary Sciences (13), Biotechnology & Applied Microbiology (9), Genetics & Heredity (8).   
+
+**Research summary**  
+ Much of the research effort regarding *L. calcarifer* is concerned with optimising conditions for successful aquaculture of this valuable fish species. Some studies have investigated the natural history of the fish, particularly spawning and juveniles, as was the case in a study using controlled incubation of wildstock from the inland waters of Vietnam(10.1134/S1062359015040123). 
+
+Others have focused on optimising feed for this species – noting the success of live food in a study in the South China Sea(10.1016/S0044-8486(96)01490-1). Others noted physiological aspects of nutrition – essential fatty acid metabolism in *L. calcarifer*(10.1007/s10695-010-9409-4). Some studies have trialled the use of local seaweed species - K. alvarezii, E. denticulatum and S. polycystum – to replace commercial feed binder in the feed of *L.calcarifer* juveniles(10.1080/09712119.2015.1021805).
+
+The genetics of *Lates calcarifer* have been the subject of some investigation by scientists with one study looking at the chromosomes of male and female fish (10.1508/cytologia.80.167).  Prevalent diseases which effect successful aquaculture wee also given attention inn the literature with one study noting the pathological effects of SDS in *L.calcarifer* indicating it to be a viral infection (10.1111/j.1365-2761.2011.01319.x).
+
+Fish aquaculture has an effect on the environment; this was the subject of a study examining pelagic carbon flow and water chemistry in mangrove estuaries with fish cage aquaculture of *L.calcarifer*(10.1016/S0141-1136(02)00276-3).
+
+**Aquatic or marine?** 
+*Lates calcarifer* live close to the sea floor, inhabiting coastal waters, estuaries, lagoons, and rivers; they are found in clear to turbid water - within a temperature range of 26−30 °C (http://eol.org/pages/204766/overview).
+
+This species is able to adapt to a range of salinities and thus are found in freshwater, estuarine, lagoons, brackish, rivers and coastal areas (Davis, T.L.O. 1986). It has been shown that some of the fish move between salt and freshwater environments whilst others remain only in the marine environment.
+
+Adults in freshwater usually migrate to spawn in water with higher salinity as eggs need saltwater to develop. Spawning most often occurs in brackish water like the river mouth and is seasonal (Moore, R. 1982). 
+
+**Is there a description of any research locations that you can identify?**  
+
+Marine fisheries in the Gulf of Thailand were the subject of a study looking at changes in 35 marine species including *Lates calcarifer* over a 26 year period (Tuantong, J.et al 2015).
+
+Mangrove inlets and creeks in Selangor, Malaysia are the habitat for 119 species of fish (the majority of which are juveniles)- the common fish species included *Lates calcarifer* (10.1007/BF00008219). The tidally dominated mangrove estuaries of peninsualr Malaysia were the location of a study examining the environmental effects of fish cage aquaculture of *L.calcarifer*(10.1016/S0141-1136(02)00276-3).
+
+### Patent activity
+
+The majority of patent activity centres around aquaculture, specifically, [feed](WO 2008/084074 A2), [products](WO 2010/027788 A1) and [methods](WO 2009/063044 A1).
+
+[Patent activity includes the novel use of fish skin including lates calcarifer as an industrial source of collagen](US 2012/0114570 A1), (US 2012/0114570 A1).
+
+[Medical and cosmetic skin treatments have also been derived from the hatching fluid of fish including lates calcarifer](WO 2014/094918 A1).
+
+[Lens collection](https://www.lens.org/lens/collection/25319)
+
+## *Litopenaeus vannamei*
+
+- **Species name:** *Litopenaeus vannamei*
+- **Kingdom:** Animalia
+- **Phylum:** Arthropoda [GBIF](https://www.gbif.org/species/2223871)
+  
+**Brief Description of the Species:**  
+The dominant shrimp culture species in the world, they are benthic - occurring in waters of depth between 0-72m in marine habitats as adults, and estuarine environments as juveniles in subtropical to tropical climates(http://www.sealifebase.org/summary/Litopenaeus-vannamei.html).
+Asia has seen a phenomenal increase in the production of *L. vannamei*, no production was reported to FAO in 1999, but by 2004 it was nearly 1 116 000 tonnes having overtaken the production of *P. monodon* in China, Taiwan Province of China and Thailand. However, due to fears of importing exotic diseases it is only experimentally farmed in Cambodia, India, Malaysia, Myanmar and the Philippines. Thailand and Indonesia both freely permit its commercial culture but have official restrictions, so that only SPF/SPR broodstock may be imported(http://www.fao.org/fishery/culturedspecies/Penaeus_vannamei/en). 
+
+![By Xufanc (Own work)](images_species/Litopenaeus_vannamei55.jpg)
+
+**Known Distribution of the Species**  
+*Litopenaeus vannamei* is native to the Eastern Pacific coast from Sonora, Mexico in the North, through Central and South America as far South as Tumbes in Peru ((http://www.fao.org/fishery/culturedspecies/Penaeus_vannamei/en)).
+
+The main producer countries of Penaeus vannamei are: China, Thailand, Indonesia, Brazil, Ecuador, Mexico, Venezuela, Honduras, Guatemala, Nicaragua, Belize, Viet Nam, Malaysia, Tawian P.C., Pacific Islands, Peru, Colombia, Costa Rica, Panama, El Salvador, the United States of America, India, Philippines, Cambodia, Suriname, Saint Kitts, Jamaica, Cuba, Dominican Republic, Bahamas (http://www.fao.org/fishery/culturedspecies/Penaeus_vannamei/en).
+
+**First description**  
+*Litopenaeus vannamei* was first described in 1931 as *Penaeus vannamei* by Boone.(https://www.gbif.org/species/2223871)
+
+### Scientific Research on the Species in the ASEAN Region
+
+**Research categories**  
+Much of the research on *Litopenaeus vannamei* is categorised as Fisheries (54), Marine and Freshwater Biology (32), Veterinary Sciences (26), Biotechnology & Applied Microbiology (10), Immunology (10), Biochemistry and Molecular Biology (6).   
+
+**Research summary**  
+Much of the research on *Litopenaeus vannamei* as the worlds dominant cultured shrimp species was with regard to maximising yield, through selecting robust broodstock as well as via disease treatment and prevention. 
+
+Researchers found that cold storage of spermatophores from broodstock was effective is dones[?] so with antibiotic within the mineral oil surrounding the sperm (10.1016/j.aquaculture.2006.08.018). Another study focussed on reproduction of *Litopenaeus vannamei* looked at the success of crosses with limited numbers of males and females, and noted that male broodstock could be selected with desirable traits (10.2306/scienceasia1513-1874.2008.34.115).
+
+Diseases of *Litopenaeus vannamei* and other commercially farmed shrimps blight production and so much of the research literature is focussed on how to overcome some of these diseases: via longer rearing and less dense stocking to protect against infectious myonecrosis (10.1016/j.jip.2010.03.001), or introduction of immune stimulating agents PAP-phMGFP (10.1016/j.fsi.2011.06.010)and CHH (10.1016/j.fsi.2011.01.014). Another study found the use of dsRNA injected into prawns to be effective as both a preventative, and treatment for  Penaeus stylirostris densovirus (PstDNV) infection(10.1016/j.virusres.2010.09.009). Similarly galangal extract and trans-p-coumaryl diacetate stimulated the immune system response, thereby promoting resistance to V. harveyi infection in *Litopenaeus vannamei*(10.1007/s10499-014-9822-2). Detecting Taura Syndrome Virus in Shrimps via  diagnostic test kits was the subject of another study (10.3354/dao069249)
+
+Antibiotic resistance is a growing problem worldwide in the aquaculture industry and for human health. As such much of the literature was focussed on looking at alternatives to antibiotic use, such as probiotics. One study found the use of bacteria, yeasts, and algae in water additives or artemia enriched enhanced survival and growth rate of *Litopenaeus vannamei* (10.1016/j.anifeedsci.2011.07.003). The probiotic Bacillus subtilis BS11 supplement was found to benefit *Litopenaeus vannamei* growth and survival after infection with Vibrio harveyi, conferring disease resistance (10.1111/anu.12040).
+
+The food safety of cultured seafood is paid some attention amongst the research literature, -minimal sequential ozone treatment and ice storage for *Litopenaeus vannamei* has been shown to have an antioxidant like action and could promise further safety for shrimp consumption (10.1016/j.lwt.2014.02.007).
+
+Astaxanthin extract from *Litopenaeus vannamei* has been demonstrated in one study to act as anti-inflammatory alternative against carrageenan-induced paw oedema and pain behaviour in mice (10.3390/molecules21030382).
+
+Genetics were the subject of several studies in the literature including the correlation between genetics and body weight in *Litopenaeus vannamei* (10.1111/j.1365-2052.2005.01274.x).
+Genetic variation and population structure of wild *Litopenaeus vannamei* from 4 geographic locations from Mexico to Panama were investigated using 5 microsatellite DNA and it was found that subpopulations exist (10.1007/s10126-004-3138-6).
+
+**Aquatic or marine?** 
+*Litopenaeus vannamei* live in marine habitats as adults, and estuarine environments (brackish water) as juveniles in subtropical to tropical climates(http://www.sealifebase.org/summary/Litopenaeus-vannamei.html
+
+**Is there a description of any research locations that you can identify?**  
+Brazil and Indonesia are mentioned in a study on infectious myonecrosis of Brazilian farmed *Litopenaeus vannamei* (10.1016/j.jip.2010.03.001).
+
+China, Thailand, Peru to Mexico on the Pacific coast, and Taiwan are referenced in a paper about the most widely cultured alien crustacean in the world *Litopenaeus vannamei* (10.1007/978-94-007-0591-3_17). Genetic variation among 4 populations of *L.vannamei* from locations along the coast between Mexico and Panama were the subject of one investigation which noted subpopulations were present (10.1007/s10126-004-3138-6). 
+ 
+*Enterocytozoon hepatopenaei* has been found in *L.vannamei* farms across India - within the states of: Tamil nadu, Andhra Pradesh and Odisha. *E.hepatopenaei* has also been detected in shrimp cultured in China, Vietnam and Thailand and is suspected to have occurred in Malaysia and Indonesia and to be linked with severely retarded growth (10.3354/dao03036).
+
+### Patent activity
+
+There are 309 patent documents for *Litopenaeus vannamei*, the most commonly cited [patent being for a commercial aquaculture system using algae and artemia as food stuffs for juveniles](https://www.lens.org/lens/patent/US_6615767_B1). Many other patent documents relate to differing forms of aquaculture system for growing *Litopenaeus vannamei*. Other *L. vannamei* patent documents relate to [feed compositions, such as one without fish meal](https://www.lens.org/lens/patent/CN_102648738_A).
+
+Some patent documents for *L. vannamei* relate to inducing immune responses, for example [using dsRNA to modulate gene expression and responses to pathogens](https://www.lens.org/lens/patent/US_2005_0080032_A1).
+
+[Lens collection](https://www.lens.org/lens/collection/24984)
+
+## *Macrobachium rosenbergii*
+
+- **Species name:** *Macrobachium rosenbergii*  
+- **Kingdom:** Animalia    
+- **Phylum:** Arthropoda [GBIF](https://www.gbif.org/species/2224546) 
+  
+**Brief Description of the Species:**  
+*Macrobachium rosenbergii* known as the Giant River Prawn and the Giant Freshwater Prawn - it is widely fished and also is the main freshwater shrimp cultivated within the commercial aquaculture industry, [IUCN](http://www.iucnredlist.org/details/197873/0). The body length of this large prawn species is 320 mm for males; and 250 mm for females, as it is a sexually dimporphic species. [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).
+
+Global production of the Giant River Prawn has grown since its inception in the 1970's and by 2002 was 200 000 tonnes/yr [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).
+  
+**Known Distribution of the Species**  
+*M. rosenbergii* is native to Bangladesh; Brunei Darussalam; Cambodia; China; India; Indonesia (Java); Malaysia (Peninsular Malaysia, Sabah, Sarawak); Myanmar (Myanmar (mainland)); Pakistan; Philippines; Singapore; Sri Lanka; Thailand [IUCN](http://www.iucnredlist.org/details/197873/0). The geographic distribution is now much wider than this as it has been introduced to all continents for aquaculture and is now found in Brazil, Venezuela, Australia, United States, Iceland, Japan, Germany, Iran, Taiwan,[GBIF](https://www.gbif.org/species/2224546).
+  
+**First description**  
+*M. rosenbergii* was first described by Johannes De Man in 1879 as *Palaemon rosenbergii* in the publication: De Man, 1879, Notes Leyden Mus., 1:167, however in 1966 Johnson renamed it to its current nomenclature of *Macrobachium rosenbergii* [(Holthuis,L.B. 1980)](http://www.fao.org/fi/oldsite/eims_search/advanced_s_result.asp?JOB_NO=AC477).
+
+![© Citron / CC BY-SA 3.0](images_species/Macrobrachium_rosenbergii.jpg)
+  
+### Scientific Research on the Species in the ASEAN Region
+  
+**Research categories**  
+Much of the research on *M. Rosenbergii* in the region is categorised as fisheries (77), followed by Marine and Freshwater Biology (46), Biochemistry & Molecular Biology (21), Veterinary Sciences (20), Zoology (13), Immunology (12) amongst others.
+  
+**Research summary**  
+The majority of the research effort on *Macrobachium rosenbergii* is directed towards maximising aquaculture yield to increase economic gain of shrimp farmers. So the research is broadly concerned with disease prevention/treatment, nutrition, stocking densities, reproductive success, and genetic make up of broodstock. Understanding the diseases of *M.rosenbergii* - such as *L. garvieae* a bacteria that infects shrimps (Dangwetngam, M. and Suanyuk, N. 2014), and White Tail Disease virus (10.1016/j.jip.2010.09.007) which causes large scale mortality in aquaculture populations- can enable treatments and preventative strategies to be adopted. Improving yield of shrimp farmers has led many to look to the genetic quality of broodstock - analysing the parentage of existing broodstock (10.1016/j.aquaculture.2011.10.045), as well as comparing this with wild samples (10.1016/j.bse.2014.12.023).This genetic analysis can then help develop a more successful breeding strategy (10.1016/j.aquaculture.2009.12.011). 
+The nutritional composition of feed given to farmed *M.rosenbergii* is another common theme of research in the literature, as well fed shrimps grow bigger and reproduction is increased (10.7717/peerj.2735). However for shrimp farmers in the Mekong Delta region of Vietnam, identifying non commercial feed options - due to affordability issues- is key (10.1111/j.1444-2906.2005.00961.x). Understanding how eye stalks inhibit reproduction in female *M.rosenbergii* (10.2306/scienceasia1513-1874.2014.40.157), as well as understanding how sex differentiation occurs (10.3390/ijms17050690) and when to intervene to create all male stock (10.1016/j.aquaculture.2012.03.015) are some of the reproductive focussed areas of research covered in the literature.
+
+![](images_species/Publication trend for Macrobachium rosenbergii.png)
+
+  
+**Aquatic or marine?** 
+Although *M. rosenbergii* is predominantly a tropical freshwater species, the larval stage of the species is found within adjacent brackish water, as females migrate to estuaries to lay their eggs [FAO.org](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en).Most of the *M. rosenbergii* farms are in freshwater inland locations, however some are in estuarine and coastal locations where salinity in the ponds can fluctuate and effect breeding success of females (10.1016/j.aquaculture.2008.04.035).
+  
+**Is there a description of any research locations that you can identify?**  
+Much of the research involves laboratory bred cultures of *M.rosenbergii*, although some studies do include wild samples as is the case in a genetic study by Schneider et al 2013 910.1111/j.1365-2109.2012.03147.x). Schneiders' study used cultured prawn samples from: Andhra Pradesh, India; Kaneohe, Hawaii, USA; Tamashiro Market, Honolulu, Hawaii, USA; University of Negev, Beer Sheva, Israel;Frankfort, Kentucky, USA; Leland, Mississippi, USA; Weatherford, Texas, USA as well as wild prawn samples from Hmaw River, Hlaing River and the Pan Hlaing River - tributaries of the Yangon River, Yangon, Myanmar; and Mahanadi River, Orissa, India. There are some references to more specific locations for wild samples within the literature - such as research into a breeding strategy for genetic improvement using wild strains Vietnam (Dong Nai and Mekong) (10.1016/j.aquaculture.2009.12.011)(10.1111/jwas.12148).*L. garvieae* was isolated from *M.rosenbergii* samples taken from cultures and wild prawns from the Phatthalung and Songkhla, provinces of southern Thailand (Dangwetngam, M. and Suanyuk, N., 2014).
+Some research doesn't specify anything more than the country such as in a study detailing culture technology in Thailand (10.1111/j.1365-2109.2011.03037.x). Genetic diversity analysis was undertaken on cultured samples from farms in Zhejiang, Guangdong and Guangxi provinces, China, as well as wild samples from Dong Nai River and Mekong River, Vietnam (10.1016/j.bse.2014.12.023).
+  
+### Patent activity
+  
+The top cited patent involving *M.Rosenbergii* is regarding [feed composition for shrimps in aquaculture settings](https://www.lens.org/lens/patent/WO_2008_084074_A2). The invention specifies a range of percentage compositions of lipid:carbohydrate:protein, differing nutritional sources, particle size and types - as an alternative to live feed for shrimp larvae. 
+
+The largest family number of a patent associated with *M.Rosenbergii* is for another type of feed, this time for [preparation and use of methionylmethionine as a feed additive for fish And crustaceans] (https://www.lens.org/lens/patent/US_2010_0098801_A1).
+
+[Lens collection](https://www.lens.org/lens/collection/24802)
+
+## *Nypa fruticans*
+
+- **Species name:** *Nypa fruticans* 
+- **Kingdom:** Plantae 
+- **Phylum:** Tracheophyta [GBIF](https://www.gbif.org/species/2738422)
+  
+**Brief Description of the Species:**  
+*Nypa fruticans* is a palm found in the upstream estuarine zone in all intertidal regions. It forms extensive belts along brackish to tidal freshwater creeks and rivers. It is very fast growing, especially in fresh water, and is a competitive species (http://eol.org/pages/1137487/details). It is the only palm adapted to the mangrove biome and grows in terrestrial, marine and freshwater habitats.
+
+The trunk of *Nypa fruticans* grows underground with the leaves, female flower inflorences and male flowers visible above the ground (http://www.efloras.org/florataxon.aspx?flora_id=2&taxon_id=220009317).
+
+*Nypa fruticans* is used for a wide range of commercial goods and services including- thatching and for making alcoholic drinks through a fermentation process(http://www.iucnredlist.org/details/178800/0). It is an important emerging source of biofuel,  capable of producing ethanol ranging from 6,480 to 20,000 L/ha, a higher yield than sugarcane(http://agris.fao.org/agris-search/search.do?recordID=MY2015000742). It is considered to be of 'Least concern as it is widespread and locally common (http://www.iucnredlist.org/details/178800/0).
+
+![By Qaalvin Own work](images_species/Nipa_palms.jpg)
+
+
+**Known Distribution of the Species**  
+*Nypa fruticans* ranges from Sri Lanka and the Ganges Delta through to the west Pacific. In South and South-East Asia it is found in Bangladesh, Brunei Darussalam, Cambodia, China, India, Indonesia, Japan, Malaysia, Myanmar, Singapore, Sri Lanka, Thailand, and Viet Nam . In much of its native range it has been planted and exists in large or small-scale plantations (http://eol.org/pages/1137487/overview).
+
+*Nypa fruticans* has been introduced to Cameroon and Nigeria in West Africa and to Panama in Central America and Trinidad and Tobago in the Caribbean.  (http://eol.org/pages/1137487/overview). 
+
+**First description**  
+[*Nypa fruticans* was first described by a German botanist called Christoph Carl Friedrich von Wurmb in 1781](https://www.gbif.org/species/2738422). 
+
+### Scientific Research on the Species 
+
+**Research categories**  
+Much of the research on *Nypa fruticans*  is categorised as Environmental Sciences (8), Biology (6), Marine and Freshwater Biology (6), and Plant Sciences (6).   
+
+**Research summary**  
+Much of the research on *Nypa fruticans* is studying its role within mangrove biomes, an important ecological and economic habitat type. In the Segara Anakan lagoon, Java, mangrove tree density and diversity was examined at the eastern part of the lake -  *Nypa fruticans* was present and characterised a mature undisturbed forest (10.1007/s10113-008-0074-4). Within Malaysia - on Carey Island - a similar demographic study was conducted looking at the percentage of *Nypa fruticans* seedling, juvenile, adult and mature present the population showed a majority of adults with 67.9% (Aslezaeim, N. and Rozainah, MZ. 2010). Also in Malaysia a study of forest structure, diversity index and above-ground biomass was conducted on *N.fruticans* at Tok Bali mangrove forest, Kelantan (Kamaruzaman, J et al 2007).
+
+Low genetic diversity for *N.fruticans* was found amongst six natural populations from China, Vietnam, and Thailand across a total of 183 individuals (10.1016/j.aquabot.2009.09.003). Creating *N.fruticans* seedlings was the focus of some research due to the economic benefits of the plant - mass clonal propagation of disease free planting materials was successfully trialled in one study (Abad, R G et al 2015). In another propagation study in Vietnam, a participatory action research methodology was used to successfully establish an *N.fruticans* (and other mangrove species) nursery on unused acid sulphate soil -normally considered unsuitable for mangrove growth (Nguyen, T P 2016).
+
+Species living on *N.fruticans* or within the mangrove biome it creates were the focus some of the literature with several studies examining the fungi present on samples from different populations. One study tested the fungi growing on *N.fruticans* for heavy metal tolerance and found that one that was able to successfully grow deposit heavy metal pollution - meaning it could potentially be used as a type of absorbent material (10.1007/s12601-015-0040-2). Species diversity of marine fungi on *Nypa fruticans* in Samut Songkhram Province, Thailand were investigated, with 81 fungal taxa recorded (10.1515/BOT.2005.049). Taxonomy of fungus found on *Nypa fruticans* in the intertidal regions in Trang and Trat provinces, Thailand was examined in another study (10.7872/crym/v36.iss3.2015.319). Biodiversity and ecology of higher filamentous fungi on *Nypa fruticans* along the Tutong River, Brunei were examined during 1999, with Forty-six taxa recorded (Hyde, K.D.and Sarma, V.V. 2006).
+
+Both mudskippers and fireflies were found to inhabit populations of *Nypa fruticans* within the literature. Mudskippers, *Periophthalmodon septemradiatus* were recorded for the first time in Peninsular Malaysia, from the small tributaries of the rivers Selangor and Muar (Khaironizam, MZ and Norma-Rashid, Y. 2003). Whereas *Pteroptyx* fireflies are commonly reported to congregate in large numbers in mangroves, but researchers found they preferred vegetation consisting mainly of *S. caseolaris* and *N.fruticans* (10.1007/s11273-009-9172-4). A study of the root-associating bacteria of *N.fruticans* found in brackish-water mud in Sarawak, Malaysia, discovered that *Burkholderia vietnamiensis* to be its main nitrogen-fixing bacterium (10.1271/bbb.100397). Another important type of organism examined in the literature was that of the pollinators inhabiting *N.fruticans* mangroves in an Oxford University study, within the submerged Melaleuca forests of Vietnam (Nguyen, Q. 2008).
+
+The economic exploitation of *N.fruticans* was examined by some researchers, one Malaysian paper looked at the ripe and unripe fruit content to see if can be used as a food source (10.1051/fruits/2013089). Whilst another scientist examined the potential of *N.fruticans* in the Philippines for alcohol production (Rasco, E.T., 2010).
+
+
+**Aquatic or marine?**  
+*N.fruticans* grows in mangrove forests in upwater estuarine locations, so it is aquatic, and terrestrial  - as it is exposed at low tide, and marine as the salt water from the ocean meets the freshwater of the rivers (http://eol.org/pages/1137487/details).
+
+**Is there a description of any research locations that you can identify?**  
+A demographic study of *Nypa fruticans* was undertaken on Carey Island Malaysia (Aslezaeim, N.and Rozainah, M.Z., 2010). Forest structure was also examined at Tok Bali mangrove forest, Kelantan, Malaysia Kamaruzaman (Kamaruzaman, J. et al. 2007).A study looking at tree density and diversity of mangroves in different areas of Segara Anakan lagoon, Java, noted the presence of *N.fruticans* as an indicator of a mature forest(10.1007/s10113-008-0074-4). 
+
+In the Vam Ray area Kien Giang Province, Vietnam, a participatory research methodology was used to establish a mangrove nursery on soil considered previously to be unsuitable - 5 types of mangrove species were successfully grown grown including *Nypa fruticans* seedlings (Nguyen, T.P., 2016); providing a potential source of income for local people.
+
+Genetic diversity of populations from six natural populations of *Nypa fruticans* from China, Vietnam, and Thailand was assessed, and showed an extremely low level of genetic diversity (10.1016/j.aquabot.2009.09.003).
+
+Selangor and Muar rivers of Malaysia were discovered to contain mudskipper populations, whilst a 2010 study of alcohol production potential took place in Vinzons, Camarines Norte, Philippines(Rasco, E.T., 2010). Pollinators of *Nypa fruticans* were examined in the submerged meleuca forests of South Vietnam (Nguyen, Q. 2008) and the bacteria inhabiting the rhizomes of *Nypa fruticans* in Sarawak Malaysia were identified (10.1271/bbb.100397).
+
+### Patent activity
+
+There are 10 patent documents for *Nypa fruticans* , the most commonly cited patent document is for a [tnf-alpha and nitric oxide production inhibitor using an extract from the plant body of the palm] (https://www.lens.org/lens/patent/JP_2007008817_A).
+
+
+[Lens collection](https://www.lens.org/lens/collection/24939)
+
+## *Oreochromis niloticus*
+
+- **Species name:** *Oreochromis niloticus*
+- **Kingdom:** Animalia   
+- **Phylum:** Chordata [GBIF](https://www.gbif.org/species/4285694)
+  
+**Brief Description of the Species:**  
+[*Oreochromis niloticus*](http://eol.org/pages/356343/overview) is a species of Tilapia, a cichlid fish [native to the nile basin in Africa and coastal rivers of Israel](http://eol.org/pages/356343/data?toc_id=4#1448), however it's an economically important species of fish which has been introduced widely outside of its natural range.
+
+*O. niloticus* adults grow to 60cm and live up to 9 years weighing up to 4.3kg. It lives in freshwater and can tolerate brackish water, wit a temperature range of 8-42°C.It's an omnivore feeding on plankton as well as mosquito larvae.Groups of cichlids establish social hierarchies in which dominant males have priority for access to mate and food.
+
+Commercial aquaculture of *O. niloticus* dates back to ancient Egypt, as they are fast growing and produce good fillets. The wild type of *O. niloticus* is less popular today as the meat is dark so a lighter meat variety is used in aquaculture.
+  
+**Known Distribution of the Species**  
+*O. niloticus* has been taken from its native African and Israeli habitats to tropical and subtropical waters all over the world for aquaculture. Nile tilapia from Japan were introduced to Thailand in 1965, and from Thailand they were sent to the Philippines. Nile tilapia from Cote d'Ivoire were introduced to Brazil in 1971, and from Brazil they were sent to the United States in 1974. In 1978, Nile tilapia was introduced to China, which leads the world in tilapia production and consistently produced more than half of the global production in every year from 1992 to 2003 [(FAO)](http://www.fao.org/fishery/culturedspecies/Oreochromis_niloticus/en). 
+
+![](images_species/Oreochromis-niloticus-Nairobi.jpg)
+
+
+**First description**  
+*Oreochromis niloticus* was first described by [Linnaeus in 1758 who named it Perca nilotica, this was changed to the current name by Greenwood, P. H. 1960] in his publication which revised the Lake Victoria Haplochromis species (https://www.gbif.org/species/4285694). 
+
+### Scientific Research on the Species in the ASEAN Region
+
+**Research categories**  
+Much of the research on *Oreochromis niloticus* is categorised as Fisheries (78), Marine and Freshwater Biology (61), Veterinary Sciences (14),  Agriculture, Dairy and Animal Science (11).   
+**Research summary**  
+The research literature on *Oreochromis niloticus* is largely concerned with improving productivity of the aquaculture industry that grows tilapia commercially. Methods of aquaculture are investigated: such as factors effecting rice polyculture, brackish water aquaculture and cage aquaculture. Rice polyculture involving the farming of *Oreochromis niloticus* amongst other fish species in paddy fields (10.1016/S0044-8486(02)00005-4) has several elements for investigation including rice seeding rate (10.1016/S0044-8486(98)00396-2), nitrogen cycling (10.1007/s10705-007-9106-6) and the ecological/economic benefits of this form of polyculture.
+
+Brackish water aquaculture requires salinity tolerance, which is not a feature of *Oreochromis niloticus* - it is the least salt tolerant tilapia, but has a quick growth rate. *O.niloticus* is increasingly being cultured in coastal ponds (especially in the Philippines, Indonesia and Vietnam) - sometimes with shrimps - so it would be beneficial if a more salt tolerant hybrid could be produced (10.1016/j.aquaculture.2005.02.008).
+
+Stocking density of *O.niloticus* in cages was investigated by the Asian Institute of Technology in Thailand (10.1016/S0044-8486(96)01377-4). The combined net yield of both caged and open-pond tilapia was found to be highest in the treatment with 50 fish m(-3).
+
+The feed used in the aquaculture of *O.niloticus* is the focus of much research effort, including the replacement of fish oil with vegetable oil (10.1007/s11745-007-3057-1) - which gave worse yields, however using cheap farm waste -mushroom stalks -to replace rice bran in feeds gave a greater yield for less money (Bahari, I. te al 2014). Scientists supplementing *O.niloticus* feed with antimicrobial herbal extracts found no mortality in S. agalactiae infected Nile tilapia for fish receiving dried matter of A. paniculata aqueous extract supplemented feeds at ratios (w/w) of 4:36 and 5:35 ((10.1016/j.jbiosc.2009.01.024). Probiotic supplemented feeds were found to increase survival in *O.niloticus* infected with *Aeromonas hydrophila* (Areechon, N. et al 2016).
+
+Infections of fish with pathogens in intensively farmed aquaculture environments can lead to mass mortality and economic loss, hence much of the literature is concerned with understanding pathogens, and methods of combating losses. Intensive *O.niloticus*  egg incubation creates conditions favourable for microbe growth leading to mass mortalities of fish larvae (Jantrakajorn, S. and Wongtavatchai, J. 2015). Scientists studied the immune response of *O.niloticus* to better understand how to develop vaccines (Bunyatratchata, W. et al 2015). Occurrence of infections in cultured populations of *O.niloticus* are studied to better understand the disease as was the case with a population infected with Neoechinorhynchus in the Philippines (Paller, V and de la Cruz C 2012 ).
+
+Heavy metal contamination of watercourses containing farmed *O.niloticus* is a concern in the literature due to heavy industry waste being released, an and the potential resultant build up in the flesh of farmed fish eaten by local people (10.1016/j.proenv.2015.10.057 selangor)(10.1111/j.1365-3156.2007.01939.x). Reduction of copper-induced tissue changes in *O.niloticus* by calcium exposure is beneficial in reducing effects in marine species(10.1080/15376510903173674).
+
+Many *O.niloticus* farmers produce all-male populations because of the superior growth rate of males compared to females. The literature discussed different methods for achieving this such as hormonal sex reversal(Guerrero, R.D. 2008), as well as genetic manipulation to create YY male broodstock achieving a 95.6% male sex ratio in the population(10.1139/cjfas-54-2-396).
+
+Understanding the genetic make up of different breeds of *O.niloticus* (10.1508/cytologia.78.9), and selective breeding using different strains to genetically improve broodstock - is the focus of some researchers (10.1016/S0044-8486(97)00230-5).Red Tilapia a strain of *O.niloticus* bred for its white flesh is a popular strain for culture.
+
+**Aquatic or marine?**  
+
+Native to the Nile basin rivers and lakes in Africa and coastal rivers of Israel] *O.niloticus* is primarily a freshwater fish(http://eol.org/pages/356343/data?toc_id=4#1448). However brackish water aquaculture is on the rise in Philippines, Indonesia and Vietnam which culture *O.niloticus* - which requires salinity tolerance - not a strength of *Oreochromis niloticus*, as it is the least salt tolerant cichlid fish, but has a quick growth rate; research is being conducted to breed a more salt tolerant hybrid of *Oreochromis niloticus* (10.1016/j.aquaculture.2005.02.008).
+
+**Is there a description of any research locations that you can identify?**  
+*O.niloticus* is farmed in its native African countries, and Israel but has also been exported for aquaculture in fresh and brackish water locations across the world including: Egypt, Thailand, Philippines, Indonesia, Malaysia, Vietnam, and Bangladesh.
+
+Some more specific locations are mentioned in the literature such as a study sampling the fish pathogen *Aeromonas hydrophila* occurrence in the *O.niloticus* population in West Bay of Laguna de Bay, Barangay Bayanan, Muntinlupa City, Malaysia in three months during 2005 (Cabrera E. et al. 2006), similarly another study sampled a population in Sampaloc Lake, Philippines for the occurrence of a fish pathogen called 'Neoechinorhynchus'(Paller, V. and De la Cruz, C. 2012). Polyculture of *O.niloticus* with 'bleeker' was the focus of a study in the Mekong delta Vietnam. Heavy metal incidence was investigated in two separate studies in Indonesia one sampling the Galas River & Beranang mining pool, Selangor(10.1016/j.proenv.2015.10.057); and another sampling Lake Cirata, West Java(10.1196/annals.1454.037). Nitrogen cycling in rice fish culture in Bangladesh, was the subject of a study (10.1007/s10705-007-9106-6).Spawning season was studied in two lakes in the Cote d'Ivoire (10.1023/A:100758801082). The spatio-temporal dynamics of fish larvae in Sirindhron Reservoir, Lower Mekong Basin, north-east Thailand (10.21077/ijf.2016.63.3.54491-02).
+
+### Patent activity
+  [A partitioned aquaculture system for *O.niloticus*  and other marine organisms, with an algal channel to control flow rate in the system](https://www.lens.org/lens/patent/US_6192833_B1) is the invention associated with *O.niloticus* that has been cited most often.
+  
+[The preparation and use of methionylmethionine as feed additive for fish and crustaceans](https://www.lens.org/lens/patent/US_2015_0223495_A1) is the patent document associated with *O.niloticus* with the largest patent family.
+
+[Lens collection](https://www.lens.org/lens/collection/24913)
+
+## *Penaeus mondon*
+- **Species name:** *Penaeus monodon*  
+- **Kingdom:** Animalia    
+- **Phylum:** Arthropoda  
+  
+**Brief Description of the Species:**  
+*Penaeus monodon*, the Giant Tiger Prawn, is one example of a group of giant prawn species with economical importance to the commercial fisheries industry [(L.B.Holthius (1949))](https://decapoda.nhm.org/pdfs/25756/25756.pdf). The total catch reported for this species for 1999 was 144 042 t with the largest catches from India (93 830t) and Indonesia (31 510 t) [FAO.org](http://www.fao.org/fishery/species/3405/en).
+*P. monodon* lives in marine (adults) and estuarine (juveniles) environments, between 0-110 metres in depth and grow to a maximum of 336mm in length, weighing 60-130g [FAO.org](http://www.fao.org/fishery/species/3405/en).
+There are two specimens of *P. monodon* recorded on [vertnet](http://portal.vertnet.org/o/umzc/vertebrates?id=urn-catalog-umzc-vertebrates-i-55155), both are held at the University Museum of Zoology Cambridge and were collected in India - one specifies the Madras region.  
+  
+**Known Distribution of the Species**  
+"Indo-West Pacific: E. and S.E. Africa and Pakistan to Japan, the Malay Archipelago and northern Australia" [(L.B.Holthius (1980))](http://www.fao.org/fishery/species/3405/en).  
+  
+**First description**  
+Penaeus monodon was first described by Johan Christian Fabricus in 1798, but clarification of which species this name referred to came later in 1949, when Lipke Holthuis showed it to be the type species of the genus *Penaeus* [(L.B.Holthius (1949))](https://decapoda.nhm.org/pdfs/25756/25756.pdf).  
+
+![CSIRO](images_species/CSIRO_ScienceImage_2992_The_Giant_Tiger_Prawn.jpg)
+
+### Scientific Research on the Species in the ASEAN Region 
+  
+**Research categories**  
+Much of the research on *P.monodon* is categorised as fisheries (288), followed by Marine and Freshwater Biology (179), Veterinary Sciences (123), Immunology (81), Zoology (60), Biochemistry & Molecular Biology (58), Biotechnology and Applied Microbiology (45), Virology (32) and so on.  
+  
+**Research summary**  
+The majority of the research effort on *P.monodon* is directed towards maximising fisheries yield and increasing economic gain. As such a lot of the *P.monodon* literature is concerned with understanding the immune response of the shrimp populations to the main viral and bacterial pathogens which cause large scale mortality in the population, such as White Spot Syndrome Virus (WSSV), Yellow Head Virus (YHV) and *Vibrio harveyi*(10.1016/j.fsi.2011.10.013) (10.1016/j.dci.2012.09.001). Whilst others are focussed on improving shrimp reproduction for example injecting female broodstock with a hormone that stimulates the ovaries (10.1016/j.aquaculture.2015.04.027 shrimp repro). Some work is concerned with identifying sub-populations of P. monodon where there is significant genetic differentiation between samples collected from different geographic areas ((Jarayabhand, P et al 2000).  
+  
+**Aquatic or marine?**  
+*P. monodon* is fished from wild populations in offshore marine waters, however there is reference to inshore and pond fishing in some countries: Singapore, Malaya, Philippines, Thailand and Vietnam [(L.B.Holthius (1980))](http://www.fao.org/fishery/species/3405/en) (10.1111/jwas.12423). In addition juveniles live in river mouth and estuarine mangrove environments predominantly - which act as a nursery with adults living in deeper offshore environments. Wild marine populations are commonly used to establish disease free broodstock for commercial pond fisheries inland (10.1016/j.aquaculture.2010.08.015). Thus some of the research is solely focussed on captive inland populations from commercial farms (10.1007/s11259-010-9434-x) whilst others are comparative studies between wild and captive specimens.  
+  
+![](images_species/country tends p_mondonpng.png)
+  
+**Is there a description of any research locations that you can identify?**  
+Much of the research involves laboratory bred broodstock of *P. monodon*, but from different geographical populations, where often only the country is cited: Australia, China, Taiwan, Malaysia, Vietnam, Thailand, Papua New Guinea, New Caledonia, India, Singapore, Philippines, Tanzania, Japan, Sulawesi, Sumatra, and Brazil. There are some references to more specific locations within the literature such as research in the Mekong Delta Region of Southern Vietnam looking at different pond farming methods - including mangrove ponds (10.1080/13657305.2013.747224).Similarly another study investigated *P.monodon* overfishing by artisanal fishermen in the Saadan Estuary in Tanzania, again an area with mangroves (10.1016/j.ocecoaman.2013.05.003). The Brunei waters of the South China Sea are the location mentioned in a study seeking disease free broodstock for inland shrimp farms (10.1016/j.aquaculture.2010.08.015). A study investigating genetic variation amongst *P.monodon* from 5 geographic locations within Thai waters lists: Chumphon and Trad within the Gulf of Thailand, as well as Phangnga, Satun, and Trang within the Andaman Sea (Jarayabhand, P et al 2000).Another genetic diversity study on P. monodon cites samples taken from the coastal waters of Qinglan (Hainan Province of China) and Malaysia (Li Shaojing et al 2008). Joseph Bonaparte Gulf in northern Australia was cited in a study on a new 7th genotype of YHV to infect shrimp ponds in Australia (10.3354/dao02894).South western and south eastern Indian coastal populations of farmed shrimps are used in a disease study of P.monodon (10.3354/dao01835).  
+  
+### Patent activity
+  
+The top cited patent document involving *P. monodon* is for a [dual purpose installation](https://www.lens.org/lens/patent/US_4055145_A) - whereby a system converts ocean thermal energy into electrical energy, at the same time the system benefits a lagoon population of *P.monodon* which are reared for the food industry. The system involves pumping cold deep sea water - which is nutrient rich to cool the working fluid and condense it, the surface water warms the working fluid and evaporates it. The closed cycle converts heat energy to electricity and the shrimps benefit from the nutrient rich deep seawater.  
+  
+The cited example of a suitable location in the patent document is the Lime Island chain 1000 miles south of Hawaii, with the Philippine Tiger Prawn *P.monodon* being used. It doesn't specify utilising samples of *P.monodon* when inventing the system which is included in this document. 
+  
+The second most cited patent document involving P.monodon is for a [non metallic bioreactor](https://www.lens.org/lens/patent/US_6571735_B1), suitable for unicellular or multicellular culture - with *P.monodon* being one of the listed species that could be farmed within it. There is no location specified for this patent as it is a bioreactor design.
+  
+[Specialised Feed composition for aquatic organisms](https://www.lens.org/lens/patent/WO_2008_084074_A2) including larvae of *P. monodon*. Similarly to above there is no location specified for this patent document.
+  
+[This patent is for methods of delivering dsRNA into invertebrate marine organisms such as shrimps, to illicit an immune response](https://www.lens.org/lens/patent/US_2005_0080032_A1). This includes methods of delivery of the dsRNA i.e. whether it is injected, ingested in a feed medium, or placed within an algae that is ingested.In addition methods of identifying genes in invertebrates that are involved in immune responses are also included.  
+
+[Lens Collection](https://www.lens.org/lens/collection/24679)
+
+## *Pomacea canaliculata*
+
+- **Species name:** *Pomacea canaliculata*
+- **Kingdom:** Animalia
+- **Phylum:** Mollusca [GBIF](https://www.gbif.org/species/2292582)
+  
+**Brief Description of the Species:**  
+*Pomacea canaliculata* is a freshwater snail with a voracious appetite for water plants including lotus, water chestnut, taro and rice. Introduced widely from its native South America by the aquarium trade and as a source of human food, it is now a major crop pest in south east Asia (primarily in rice) and Hawaii (taro) and poses a serious threat to many wetlands around the world through potential habitat modification and competition with native species. A highly generalist and voracious macrophytophagous herbivore. Most plants are eaten (http://www.iucngisd.org/gisd/species.php?sc=135). 
+
+The activity rate of *Pomacea canaliculata* varies highly with the water temperature. At 18°C they hardly move around, whilst the opposite is true at higher temperatures e.g. 25°C (The (http://www.iucngisd.org/gisd/species.php?sc=135).
+
+Females lay clusters of bright pink eggs attached to solid surfaces and reproductive output can be enormous with clutch sizes of up to 1000, but averages are probably 200-300. Clutches are laid every few weeks (http://www.iucngisd.org/gisd/species.php?sc=135).
+
+![By H. Zell (Own work)](images_species/Pomacea_canaliculata_01.jpg)
+
+**Known Distribution of the Species**  
+*P. canaliculata* is native from Argentina to the Amazon basin, as well as being introduced to most of southern, eastern, and southeast Asia and the southern part of the United States (http://eol.org/pages/467346/overview). *P. canaliculata* is widely distributed in lakes, ponds and swamps throughout its native range of the Amazon Inferior Basin and the Plata Basin (http://www.iucngisd.org/gisd/species.php?sc=135).
+
+Biogeographic Regions: nearctic (Introduced ); oriental (Introduced ); neotropical (Native); oceanic islands (Introduced )(http://eol.org/pages/467346/overview).
+
+**First description**  
+ The French Biologist Jean Baptiste Lamarck first described *P. canaliculata* in the natural history of invertebrates in 1822 (https://www.gbif.org/species/2292582).
+
+### Scientific Research on the Species in the ASEAN Region
+
+**Research categories**  
+Much of the research on *Pomacea canaliculata* is categorised as Agronomy (7), Biotechnology and Applied Microbiology (4), Entomology (4), Environmental Sciences (4), Toxicology (4), Agriculture, Multidisciplinary (3).   
+
+**Research summary**  
+
+Much of the research on *Pomacea canaliculata* is concerned with ways to effectively control the invasive pest in agricultural settings, including the use of fish predators in rice fields (10.1016/j.cropro.2006.01.012), as well as molluscicides (De la Cruz, M.S. and Joshi, R.C.2001). Quinoa saponins a natural molluscicide were found to be an effective environmentally friendly alternative to synthetic molluscicides at eradicating *Pomacea canaliculata*, especially in direct seeded cultures of rice (10.1016/j.cropro.2007.08.010). In a study in Thailand natural pathogens of *Pomacea canaliculata* were isolated from the soil - strains of *Pseudomonas aeruginosa* and *P. fluoescens* (10.1023/B:WIBI.0000007312.97058.48).
+
+The human health risk posed by *Pomacea canaliculata* with regard to its transmission of parasites was the focus of several studies which monitored snail populations in aquatic bodies near populated areas. One study examined the effect of the building of a dam in central Laos PDR on numbers of all snails including *Pomacea canaliculata* - the intermediate host of *A.cantonensis*- it was the snail species found in the greatest numbers during 2010 and 2011; numbers increased greatly from 1.3% in 2010 to 53.3% in 2011 (Brey, P.T. 2015).
+
+In 2006/7 tsunami and non-tsunami affected areas of Takua Pa District, Phang-Nga Province were examined for snails that transmit human parasitic diseases - 16 species were identified including *Pomacea canaliculata*. Knowledge of these medically important snails and their parasitic diseases, and prevention were given to Takua Pa people (Butraporn, P. 2010).
+
+Another public health focus of the literature regarding *Pomacea canaliculata* concerned their potential use as biomonitors in waterways which could be subject to heavy metal pollution. This was shown to effect the tissues of the snails in an observable manner at levels below the safety limit, at a lake in Thailand (10.1016/j.ecoenv.2012.09.018). Similarly another study focussed on the effect of copper sulphate exposure on the tissue of *Pomacea canaliculata*, they also found the snail to be an effective potential bioindicator of copper contamination in aquatic environments (10.1016/j.ecoenv.2015.08.010).
+
+A better understanding of the general biology of *Pomacea canaliculata* led some researchers to look at its life cycle (Arfan, A. et al 2015), whilst others examined genetic diversity (Bai, Xu et al 2011) and some specifically looked at tolerance of different climatic populations to dessication and cold (10.1093/mollus/eyq049).
+
+Differing cultivation methods were examined to note any effect on the mortality rate of rice due to *Pomacea canaliculata* infested ponds. One study noted that planting out 21 days after sowing gave a greater chance of survival for the rice seedlings (10.1016/j.cropro.2014.06.022). 
+
+**Aquatic or marine?** 
+Although *Pomacea canaliculata* is largely a freshwater snail, reference is made to them occupying, marsh, swamp and marine habitats (http://eol.org/pages/467346/overview).
+
+**Is there a description of any research locations that you can identify?**  
+
+Snails in Beung Boraphet reservoir, Nakhon Sawan Province, central Thailand were examined in a study of metal pollution (10.1016/j.ecoenv.2012.09.018). Areas of Takua Pa District, Phang-Nga Province were investigated for fresh- and brackish-water snails that transmit human parasitic diseases during 2006 and 2007 (Butraporn, P. 2010). Another study in Thailand looked at natural microbe pathogens in the soil (10.1023/B:WIBI.0000007312.97058.48).
+
+The Philippines is the location of a couple of studies including one on rice cultivation methods to reduce mortality (10.1016/j.cropro.2014.06.022), and a molluscicide study in Munoz, Nueva Ecija (De la Cruz, MS. and Joshi, RC 2001), as well as a genetic diversity analysis using a population from Los Banos (Bai, X. et al 2011).
+
+The effect of building a dam on the snail population was investigated at Khammouane Province, central Laos (Brey, P.T. 2015).
+
+China (Yuyao, Taizhou, Fuzhou, Guangzhou, Nanning, Kunming) (Bai, Xu et al 2011), Japan (Kyushu and Luzon Mindanao) (10.1093/mollus/eyq049) and Taiwan are also mentioned within the research literature (Baker, GH. 1998).
+
+### Patent activity
+There are 114 patent documents for *Pomacea canaliculata*, the most commonly cited patent document is for a modified plant chemical called 'saponin' that can be used to kill these molluscs in areas where they are considered a pest [US20070196517A1](https://www.lens.org/lens/patent/US_2007_0196517_A1).
+
+[Lens collection](https://www.lens.org/lens/collection/24984)
+
+## *Vibrio harveyi*
+- **Species name:** *Vibrio harveyi*
+- **Kingdom:** Bacteria   
+- **Phylum:** Proteobacteria [GBIF](https://www.gbif.org/species/5427692)
+  
+**Brief Description of the Species:**  
+[*Vibrio harveyi*](http://eol.org/pages/973242/details), is a Gram-negative, bioluminescent, common marine bacterium in the same genus as *Vibrio parahaemolyticus*. *V. harveyi* is rod-shaped and can be found free-swimming in tropical marine waters, living commensally in the gut microflora of marine animals, a minority of *V.harveyi* strains are pathogenic to marine animals, including Gorgonian corals, oysters, prawns, lobsters, the common snook, barramundi, turbot, milkfish, and seahorses. It is responsible for luminous vibriosis, a disease that affects commercially farmed penaeid prawns such as *P.monodon*. Additionally, based on samples taken by ocean-going ships, V. harveyi is thought to be the cause of the [milky seas effect] (https://www.nrl.navy.mil/media/news-releases/2005/nrl-scientists-detect-milky-sea-phenomena), in which, during the night, a uniform blue glow is emitted from the seawater. Some glows can cover nearly 6,000 sq mi (16,000 km2) (http://eol.org/pages/973242/details).
+
+*V. harveyi* related strains have been isolated from the deep sea >1000m2, these may be ecologically differentiated strains, adapted to a different ecological niche or be distributed across the oceans (Thompson and Austin 2006). 
+
+Although normally a benign bacteria in marine cultured environments, the prevalence of the pathogenic strains of *V. harveyi* - that differ by a few pathogenic determinant genes - can cause a problem in high nutrient, high density conditions leading to a rapid spread of virulent strains (Ben-Haim et al., 2003). 
+
+Although closely related to the human pathogen *V. parahaemolyticus*, *V. harveyi* is not known as a [human pathogen](https://www.ncbi.nlm.nih.gov/genome?term=txid669%5Borgn%5D). This is one of the first organisms in which [quorum sensing] (https://www.ncbi.nlm.nih.gov/genome?term=txid669%5Borgn%5D) was described, whereby communities of bacteria communicate with each other via secreted signalling molecules synchronising community behaviour by regulating gene expression - both within and between bacteria species.  
+  
+**Known Distribution of the Species**  
+Vibrio harveyi is a common bacteria inhabiting largely tropical marine waters - as it requires sodium chloride (10.1111/j.1472-765X.2006.01989.x), and prefers warmer water temperatures.
+  
+**First description**  
+*Vibrio harveyi* was named by Baumann et al. in 1981, further to the work of Johnson & Shunk, 1936 who originally named the species *Achromobacter herveyi*. [GBIF](https://www.gbif.org/species/5427692) 
+
+### Scientific Research on the Species in the ASEAN Region 
+  
+**Research categories**  
+Much of the research on *Vibrio harveyi* is categorised as Fisheries (72), Marine and Freshwater Biology (44), Veterinary Sciences (37),  Immunology (30), Microbiology (24), Biotechnology and Applied Microbiology (23) and Biochemistry and Molecular Biology (19).   
+  
+**Research summary**  
+The research effort on *Vibrio harveyi* is largely concerned with infection of fish, molluscs and crustaceans within the aquaculture industry. As such a lot of the *V. harveyi* literature is concerned with understanding the pathogenic strains of the bacteria that infects commercially farmed marine organisms, particularly shrimps: methods of rapidly detecting V.harveyi infections (2672.2003.02020.x), antimicrobial peptides produced by marine organisms that could combat *V.harveyi* (10.1016/j.aquaculture.2009.01.026) and naturally occurring compounds that have antimicrobial properties against *V.harveyi* whilst being safe to cultured marine organisms(10.1111/are.13043). Shrimps infected with *V. harveyi* produce an antimicrobial peptide that has been shown to be effective in combating the bacteria when administered into a culture or injected into shrimps(10.1016/j.aquaculture.2009.01.026).  
+
+Overuse of antibiotics in aquaculture is blamed for an increase in antibiotic resistant strains of bacteria (10.1016/j.fm.2016.02.008), so *V.harveyi* researchers are looking at alternative methods of combating the bacteria, including the use of novel natural compounds found in cyanobacteria(10.1111/are.13043) and extracts from *Sargassum oligocystum* (Apines-Amar, MJS. et al., 2011). 
+
+**Aquatic or marine?**  
+*Vibrio harveyi* is found in marine and estuarine waters, however its presence has also been noted in Giant Freshwater Prawn larvae which inhabit brackish water as juveniles and freshwater as adults(10.1016/j.aquaculture.2013.05.015).
+  
+**Is there a description of any research locations that you can identify?**  
+Much of the research referencing specific locations for *V.harveyi* is from investigations into the cause of aquaculture shrimp mortalities as was the case in pond-cultured Penaeus monodon in the provinces of Bohol, Misamis Occidental, Lanao del Norte and Zamboanga del Sur, Philippines (Inui, Y. et al., 2003). Similarly dead shrimp larvae from hatcheries in Jepara, Indonesia(10.1016/0044-8486(94)00374-W), Southern Thailand (10.3354/dao035195), and Iran (Afsharnasab, M. et al., 2014) were found to contain *V.harveyi*. Seasonal changes in the composition of a variety of vibrio species including *V.harveyi* were investigated in samples taken from Yoshimi Bay, Hibiki-nada Sea, Japan.  
+    
+### Patent activity
+  [Nucleic acid and amino acid sequences relating to pseudomonas aeruginosa for methods for the detection, prevention and treatment of pathological conditions resulting from bacterial infection including *V.harveyi*](https://www.lens.org/lens/patent/US_6551795_B1).
+  
+[Microorganisms for therapy wherein the microorganisms gather in inflamed or cancerous tissues and cause cells to become leaky, resulting in production of antibodies, one such type of microorganism is attentuated Vibrio](https://www.lens.org/lens/patent/US_2007_0212727_A1) 
+  
+[Lens collection](https://www.lens.org/lens/collection/24872)
+
+## *Vibrio parahaemolyticus*
+- **Species name:** *Vibrio parahaemolyticus*
+- **Kingdom:** Bacteria   
+- **Phylum:** Proteobacteria [GBIF](https://www.gbif.org/species/5427673)
+  
+**Brief Description of the Species:**  
+*Vibrio parahaemolyticus*, is a gram negative bacteria that is found in estuarine, coastal and marine waters [Letchumanan et al 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263241/) and is present in higher concentrations between May and October when temperatures are warmer [CDC](https://www.cdc.gov/vibrio/faq.html). *V. parahaemolyticus* responsible for the disease vibriosis in humans, contracted through eating raw contaminated shellfish such as oysters, or exposure of a wound to infected salt or brackish water [CDC](https://www.cdc.gov/vibrio/faq.html).
+*V. parahaemolyticus* is found in a free swimming state, using a single flagellum to attach to zooplankton, fish, shellfish or suspended matter in the water [Letchumanan et al 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263241/)(10.3389/fmicb.2014.00705).
+  The prevalence of the pathogenic strains of *V. parahaemolyticus* isolated from seafood, and clinical samples shows it to have a worldwide distribution across South East Asia, Europe, and US posing an ongoing health threat to the population. Within Asia, samples have been found in seafood in markets in China, Malaysia, India, Bangladesh, Taiwan, Laos, hong Kong and Japan [Letchumanan et al 2014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4263241/)(10.3389/fmicb.2014.00705).
+
+**Known Distribution of the Species**  
+"Present in the Gulf of Mexico" [GBIF](http://www.gbif.org/species/5427673).  
+  
+**First description**  
+*Vibrio parahaemolyticus* was named by Sazaki et al.in 1963, further to the work of Fujino et al. in 1951 who originally named the species *Pasteurella parahaemolytica*  [(GBIF)](https://www.gbif.org/species/5427673).  
+  
+![Janice Carr/CDC](images_species/Vibrio_parahaemolyticus_01 copy.png)
+
+### Scientific Research on the Species in the ASEAN Region 
+  
+**Research categories**  
+Much of the research on *Vibrio parahaemolyticus* is categorised as Microbiology (60), Food Science and Technology (30), Biotechnology and Applied Microbiology (29), Fisheries (29), Veterinary Sciences (21), Infectious diseases (19), Marine and Freshwater Biology (17), Immunology (11) and so on.  
+  
+**Research summary**  
+The research effort on *Vibrio parahaemolyticus* is largely concerned with infection of fish, molluscs and crustaceans within the aquaculture industry, as well as infection of humans that eat infected seafood. As such a lot of the *V. parahaemolyticus* literature is concerned with understanding the pathogenic strains of the bacteria that infects humans and commercially reared seafood including: methods of rapidly detecting strains causing an infection (10.1017/S0950268806006017), vaccines offering protection (10.1016/j.vaccine.2011.04.021) and ways of treating the infection. Shrimps infected with *Vibrio parahaemolyticus* can develop acute hepatopancreatic necrosis disease causing severe mortalities in SE Asia and Mexico, some research has been directed to noting any genetic difference between bacterial infections from different geographical areas.  
+
+Overuse of antibiotics in aquaculture is blamed for an increase in antibiotic resistant strains of *Vibrio parahaemolyticus* (10.1016/j.fm.2016.02.008), so researchers are also looking at alternative methods of combatting the bacteria: including the use of bacteria phage - such as one discovered in Laos (Higa, N. et al 1999). In ensuring people don't become sick from eating seafood, some research has been focussed on food preservatives that extend the life of seafood because of their inhibitory effect on *Vibrio parahaemolyticus*such as botanical extracts from *Terminalia chebula* (Kaewmanee,P et al 2012) and *Zingiber spectabile*(10.1016/j.foodcont.2012.09.012), and best practice for safe processing of seafood (10.1016/j.foodcont.2012.02.009). There are many studies noting the range of strains present in certain geographic areas, in Taiwan and 14 other countries 535 strains were identified of *Vibrio parahaemolyticus* (10.1016/j.ijfoodmicro.2006.09.024) - either by testing samples of infected faeces of people from clinical settings, (10.1099/jmm.0.47439-0) or sampling water and noting the strains of *Vibrio parahaemolyticus* present. Certain strains are given more attention, as they are more virulent, pathogenic and novel - so there is little resistance in the local human population - it is these strains, such as the pandemic strain, that are of more concern in the literature.
+
+**Aquatic or marine?**  
+*Vibrio parahaemolyticus* is found in marine and brackish waters, however its presence has also been noted in a tropical coastal lagoon from 2 samples collected in the estuary near Yor Island, Songkhla Lake, Thailand (10.1139/W11-084).
+  
+![](images_species/publication trends Vibrio para.png)
+  
+**Is there a description of any research locations that you can identify?**  
+Much of the research involving samples taken from humans infected with *Vibrio parahaemolyticus* reference a country for example:US, Italy, Brazil, Philippines, Malaysia, China, India, Thailand, Iran, South Africa and Australia, (10.1016/j.fm.2016.02.008). Some clinical studies are more specific in noting a hospital or region: a study conducted at Hat Yai Hospital in southern Thailand (10.1099/jmm.0.47439-0) for example, and a similar stool sample study in the infectious Diseases Hospital in Kolkata, India examining strains present in infected samples using the PFGE analysis technique to identify the strains (10.1371/journal.pntd.0002815). Food poisoning cases in Kangawa Prefecture, Japan were the source of 18 strains of *V. parahaemolyticus* studied in laboratories in Thailand to note the specific genes present (10.1007/s002849900188).
+
+Forty two strains of *Vibrio parahaemolyticus* were isolated form samples of water taken form the estuaries around Bangladesh in the Bay of Bengal, with some being of the virulent and ptahogenic strains posing a risk to inhabitants of coastal villeages in the area(42 10.1128/AEM.00266-09). A study on patients with diarrhoea in North Jakarta, Indonesia, found *Vibrio parahaemolyticus* was responsible for a substantial number of cases, with incidence being highest in the dry season (June and July), many of the samples showed antibiotic resistance to some antibiotics (10.1016/S0732-8893(00)00232-7).
+
+Samples of seafood were analysed from Hong Kong, Indonesia, Thailand and Vietnam - of the samples taken 45.9% contained *Vibrio parahaemolyticus*, with more of teh samples from Hong Kong and Thailand containing teh bacteria (10.1016/S0168-1605(99)00143-9).
+
+170 strains of *V. parahaemolyticus*  were isolated from water samples collected along the Georgian coast of the Black Sea, water temperature was shown to be a factor in its presence especially in the Green cape samples(10.3389/fmicb.2014.00045).
+  
+###Patent activity
+  
+The top cited patent document involving *V. parahaemolyticus*  is for [identification of essential genes used to help *V. parahaemolyticus* multiply](https://www.lens.org/lens/patent/US_2004_0029129_A1) - a sequence of nucleic acids is used to undertsand which are the key important proteins in the bacteria and then drugs, or antibodies can be produced to prevent replication of the bacteria.
+
+The patent document with the largest family is for the [use of a peptide as a therapeutic agent](https://www.lens.org/lens/patent/WO_2009_043477_A2) when someone has a *V. parahaemolyticus* infection.
+
+[Lens collection](https://www.lens.org/lens/collection/24760)

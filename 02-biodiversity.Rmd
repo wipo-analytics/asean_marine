@@ -1,0 +1,57 @@
+# Biodiversity in the ASEAN Region {#biodiversity}
+
+ASEAN countries are the home to an extraordinary range of biodiversity with Indonesia, Malaysia and the Philippines classified as megadiverse countries in terms of the number of endemic species. We obtained the available records on biodiversity for each ASEAN country using the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) data portal. As of March 2018 GBIF contained 6,350,017 occurrence records for ASEAN countries covering a total of 147,036 species. Occurrence records are recorded observations of a species and are commonly accompanied by georeference data notably latitude and longitude. Figure \@ref(fig:biodiv) displays a summary view of the available biodiversity data for the ASEAN region focusing on species counts and counts of occurrences. 
+
+```{r biodiv, echo=FALSE, fig.align='center', echo=FALSE, out.width='100%', fig.cap="Species Occurrence Records in ASEAN Countries"}
+knitr::include_graphics("images/asean_biodiversity.png")
+```
+
+Figure \@ref(fig:biodiv) reveals that the available species data for ASEAN countries is dominated by information on animal (Animalia) species followed by plants (Plantae) and fungi. GBIF does not consistently include data on viruses and this will therefore be under-represented in this data. Turning to the class of organisms, the data is dominated by a class of plant species (Magnoliopsida) which also account for a large number of observation records, followed by insects (Insecta), snails (Gastropoda), Liliopsida (a class containing the Lily Family) and Malacostraca such as crabs, lobsters, and shrimps. In reviewing this data note that a common feature across GBIF data is that observational data (occurrences) are dominated by birds (Aves) because humans display a marked tendency to record and submit bird observations
+
+Figure \@ref(fig:biodiv) also reveals that the availability of data on biodiversity within the ASEAN region varies considerably between countries with Indonesia coming top in terms of both the number of recorded species and observations in GBIF with Brunei recording the smallest numbers. This will reflect the size of countries and also the extent to which the scientific community and taxonomic collections have made their basic taxonomic data available to GBIF.
+
+Recent years have witnessed dramatic improvements in the availability of species information in digital form. However, it is important to bear in mind that this data will almost always represent a limited set of the overall data and of actual biodiversity within a country or region. This is particularly true for marine species with the marine environment representing one of the least explored and documented environments on earth. 
+
+### Marine Species in the Biodiversity Data
+
+Marine species are a subset of the biodiversity data for the region. However, it is important to recognise that the description of a species as marine is not straightforward in practice because they may exist in multiple habitats. Specifically, using the classification adopted by the World Register of Marine Species (see below) a species may occupy one or more of the following environments: 
+
+- terrestrial
+- freshwater (aquatic)
+- brackish (freshwater/saltwater boundary)
+- marine
+
+A species may therefore be found in multiple environments, or it may occupy a particular habitat at one stage of its life cycle and another habitat at a later stage. This makes the strict isolation of marine species difficult. As we will see below the common plant pathogen *Fusarium oxysporum* is widespread in soils but is also a marine organism according to the World Register of Marine Species ([WoRMS](http://www.marinespecies.org/aphia.php?p=taxdetails&id=100523)). This presents the difficult challenge of distinguishing between terrestrial fungi and marine fungi. A second example is provided by mosquitoes (genus Anopheles) that have been a major focus of attention in the scientific and the patent literature. These insects are aquatic in the early stage of their life cycle and lay eggs in water during the adult stage. Similarly, in the case of animal organisms some fish may breed in freshwater but spend the majority of their life cycle in a salt water marine environment. In the case of plants these may be found in salt marshes, lagoons, beaches and other coastal environments and extend into underwater habitats. 
+
+As this makes clear, drawing a distinction between marine and non-marine organisms can be a challenge and requires close attention to detail. In this report following exploration of the species data we adopt the approach of excluding terrestrial species wherever possible. Based on investigation of some plant species and fungi we limit plant species to those with a coastal distribution (such as mangroves) and generally exclude fungi except where they are demonstrably of marine origin. 
+
+To identify Marine species in the GBIF data we used a reference list of marine species binomial names from the World Register of Marine Species that we reduced to 398,000 binomial names for text mining purposes. We  identified 28,000 marine species names in GBIF data that appear in the reference list from WoRMS. We then retrieved the available environmental data about those species using the Lifewatch Belgium web service. GBIF data on marine species appearing in WoRMS is summarised in Figure \@ref(fig:marine).
+
+```{r marine, echo=FALSE, fig.align='center', echo=FALSE, out.width='100%', fig.cap="Occurrence Records for Marine Species in ASEAN Countries"}
+knitr::include_graphics("images/asean_marine_biodiversity.png")
+```
+
+Figure \@ref(fig:marine) reveals, as we might expect, that the number of species is dominated by Animalia, notably gastropods, followed by Actinopterygii, ray-finned bony fish, Malacostraca (crabs, shrimp, lobster), molluscs (Bivalvia), Anthozoa (marine invertebrates including corals and gorgonians) and Hexanauplia or crustaceans such as copepods. 
+Interestingly, while the rankings for country level data only undergo minor change with Singapore moving up one ranking, the Philippines moves to the top ranking in terms of the number of recorded occurrences for marine species. However, as we will see in the next section, in recent years marine research in the Philippines has displayed a declining trend. 
+
+### Conclusion
+
+In this section we have provided a brief overview of the available data on biodiversity and marine biodiversity in the ASEAN region. As we have emphasised our ability to interrogate the scientific and patent landscapes for marine biodiversity in the ASEAN region is fundamentally constrained by access to data about biodiversity in the region. In many countries this is improving as countries recognise the value of digitising their biodiversity data and make it available through the Global Biodiversity Information Facility (GBIF).
+
+As we will see in the following sections, the availability of taxonomic information or biodiversity informatics is also important for our ability to map and understand research and research and development involving marine species within and beyond the ASEAN region. 
+
+### References
+
+GBIF occurrence datasets as used in this report are publicly available for download as follows and should be cited using the supplied DOIs. 
+
+1. [Brunei darussalam, DOI 10.15468/dl.ny8aam](https://www.gbif.org/occurrence/download/0020859-180131172636756)
+2. [Cambodia, DOI: 10.15468/dl.22e1ct](https://www.gbif.org/occurrence/download/0020860-180131172636756)
+3. [Indonesia, DOI: 10.15468/dl.cwwjsn](https://www.gbif.org/occurrence/download/0020862-180131172636756)
+4. [Lao people’s democratic republic, DOI: 10.15468/dl.x7kr9j](https://www.gbif.org/occurrence/download/0020864-180131172636756)
+5. [Malaysia, DOI: 10.15468/dl.3b9yw3](https://www.gbif.org/occurrence/download/0020868-180131172636756)
+6. [Myanmar, DOI: 10.15468/dl.2czwzg](https://www.gbif.org/occurrence/download/0020878-180131172636756)
+7. [Philippines, DOI: 10.15468/dl.fi2kit](https://www.gbif.org/occurrence/download/0020868-180131172636756)
+8. [Singapore, DOI: 10.15468/dl.ribxsw](https://www.gbif.org/occurrence/download/0020880-180131172636756)
+9. [Thailand, DOI: 10.15468/dl.vzhaey](https://www.gbif.org/occurrence/download/0020885-180131172636756)
+10. [Viet Nam, DOI: 10.15468/dl.8qivwd](https://www.gbif.org/occurrence/download/0020888-180131172636756)
+12. [South East Asia and Pacific bounding box, DOI: 10.15468/dl.e7bm2i](https://www.gbif.org/occurrence/download/0000637-171219132708484). Polygon: ((89.296875 -11.591978551846823, 89.296875 30.388035892267144, 161.71874999999997 30.388035892267144, 161.71874999999997 -11.591978551846823, 89.296875 -11.591978551846823))

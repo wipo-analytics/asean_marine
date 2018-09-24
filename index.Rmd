@@ -1,0 +1,28 @@
+--- 
+title: "The Scientific and Patent Landscape for Marine Genetic Resources in Southeast Asia"
+author: "Paul Oldham"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [crossref.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: wipo-analytics/asean_marine
+description: "This report reviews the scientific and patent landscapes for marine genetic resources in ten Southeast Asian countries"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Acknowledgements
+
+The WIPO Report on the Scientific and Patent Landscape for Marine Genetic Resources in South East Asia, was written with the generous financial support of the Patent Office of Japan (JPO). 
+
+The report is based on data from a combination of Clarivate Analytics Web of Science Core Collection, Clarivate Analytics Derwent Innovation patent collections and the EPO World Patent Statistical Database (PATSTAT, October 2017 edition). The report is made possible by the increasing availability of digital information on biodiversity and the development of tools to access this data. We thank the [World Register of Marine Species](http://www.marinespecies.org/) which made available the list of marine species used in this research, and the [Global Names Index](http://gni.globalnames.org/) for data on variations on species data. Environmental information on marine species for the WoRMS database was available thanks to the API made available by [Lifewatch Belgium](http://www.lifewatch.be/data-services/?cache=1521050271). Additional taxonomic information and species occurrence data was obtained from the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/). The GBIF API was accessed using the [ROpenSci](https://ropensci.org/) R package `rgbif` and the resolution of taxonomic names was performed using the ROpenSci `taxize` package [@R-rgbif; @R-taxize]. Name cleaning and text mining was performed using VantagePoint from Search Technology Inc and additional text mining performed in R using the tidytext package [@R-tidytext]. General data analysis was performed in the R programming language in RStudio using packages within the tidyverse [@R-base; @R-tidyverse]. The report was written in R markdown with Bookdown [@R-rmarkdown; @R-bookdown]. 
+
+## Authorship
+
+The report was written by Dr. Paul Oldham (Senior Adjunct Fellow at the United Nations University Institute for the Advanced Study of Sustainability and Industrial Fellow at the Manchester Institute of Innovation Research, Alliance Manchester Business School, University of Manchester). Ms. Nicola Shale served as the ecologist for the project and Ms. Jasmine Kindness as Research Assistant. The report was prepared under the coordination of and with contributions by Ms. Irene Kitsara (WIPO). 

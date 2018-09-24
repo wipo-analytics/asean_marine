@@ -1,0 +1,121 @@
+# Annex 2: Methodology {#method}
+
+In this section we describe the basic methodology and data sources used for the Scientific and Patent Landscape for Marine Genetic Resources in South East Asia. Methods can be divided into the following categories.
+
+1. Searching the Scientific Literature
+2. Searching the Patent Literature
+3. Identifying Species Names
+
+## The Scientific Literature
+
+[Web of Science](https://clarivate.com/products/web-of-science/web-science-form/web-science-core-collection/) from Clarivate Analytics (formerly Thomson Reuters) is a leading commercial database of scientific literature and is widely available in Universities. Web of Science covers thousands of journals across multiple subjects and is made up of a number of databases available under a range of subscription models. We used the [Web of Science (WOS) Core Collection](https://clarivate.com/products/web-of-science/web-science-form/web-science-core-collection/) consisting of data from over 18,000 journals along with conference proceedings. This database is common to all subscription models for Web of Science (with the others being optional). Use of the Core Collection therefore assists with the reproducibility of research. The Core Collection also contains more detailed fields, for example on author affiliations, than other databases in the family and is therefore a preferred choice for bibliometric research. 
+
+### Searching Web of Science
+
+We focused on obtaining scientific literature about the ten ASEAN countries in two categories:
+
+1. Scientific literature listing an author from the country in the Address field of scientific publications.
+2. Scientific Literature that referenced the country in the Topic Field (Titles, Abstracts, Author Keywords and Keywords Plus (titles of cited literature))
+ 
+We searched across all years beginning in 1900 to the period between late May 2017 and mid-June 2017. 
+
+Downloads of Web of Science records were formerly limited to 500 records per set. Where the number of records exceeded 100,000 we sought to limit the datasets by Web of Science Subject Categories. Web of Science Subject Categories describe the *subject areas* of journals in Web of Science rather than the articles themselves. In selecting the Subject Categories we focused on those areas with a biological connection and for traditional knowledge we looked at the social sciences. The Analyze function in Web of Science permits the ranking of records based on the subject category and aided in the selection process. 
+
+In cases where we refined the data by subject area we typically started the research by using the Analyze function on subject categories ordered alphabetically to make the selection. This was limited to the top 100 categories. In a second step we then used the full list to download a smaller set containing other relevant subject categories. Typically these were smaller subject areas (such as Entomology or Marine Engineering) that did not appear in the top 100. To capture data potentially relevant to traditional knowledge we included social science subject areas while recognising that the majority of records would not be relevant. 
+
+In cases where datasets were refined by subject category we sought to cast the net as widely as possible while keeping the results below 100,000. 
+
+### Overall Trends
+
+We obtained an overview of research trends for each category using the `Analyze` function in Web of Science to identify the top 500 authors, the top 600 organizations (organizations enhanced), data on publication years, and the ranked Web of Science Subject Categories. 
+
+We then downloaded the results, tidied up the data titles and imported the files into RStudio. Individual country data was joined using the dplyr function `full_join` for an SQL join. Because the data for each country varies in length, this joins the tables together on the subject categories and introduces an NA for Not Available where a category is missing for an individual field. These files were compiled in the data folder of the repository as `asean_authors`, `asean_categiries`, `asean_organizations` and `asean_year`.
+
+## Patent Data
+
+Patent Data for the research consisted of three components.
+
+1. PATSTAT
+
+The [EPO World Patent Statistical Database (PATSTAT)](https://www.epo.org/searching-for-patents/business/patstat.html#tab-1) is a statistical database developed by the European Patent Office in collaboration with OECD and other partners. It contains the basic content of the core DOCDB database and has been augmented with additional data tables such as cleaned assignee names and economic sector tables. As a statistical database PATSTAT is not suitable for text mining and requires knowledge of SQL. 
+
+We used the [Intelligent Information Services Corporation (IISC) portal](http://www.patstat.org/Patstat/PatstatApp/app/index.html#/disclaimer) to access the EPO World Patent Statistical Database (PATSTAT) Autumn 2016 edition. PATSTAT is a SQL based database and IISC has the advantage of providing a simplified interface and directly compiling datasets for use in VantagePoint from Search Technology Inc. This considerably simplified the requirements for using PATSTAT and processing the data but is limited to VantagePoint users. 
+
+Query construction in IISC PATSTAT is straightforward. We constructed two queries for the ASEAN data. The first query involves searching for records where an ASEAN country code appears in the person country field of the person PATSTAT tls206_person table.
+
+Dataset 1 Query: 
+
+"(@PersonCountry (BN | KH | ID | LA | MY | MM | PH | SG | TH | VN))""
+
+Dataset 1 file: asean_person_country_patstat.vpt
+
+This 6 gigabyte dataset in VantagePoint format contains 109,744 application records where the person_country in PATSTAT table tls206_person country contained a two letter country code that was either xxxxxx.
+
+Dataset 2 Query:  
+
+"(@PubAuthority (BN | KH | ID | LA | MY | MM | PH | SG | TH | VN))"  
+
+Dataset 2: asean_publn_auth_patstat. 
+
+This 4.8 Gigabyte file contains 173,461 application records filed within the 10 ASEAN countries. 
+
+2. ABSPAT
+
+ABSPAT is an in house research dataset that is based on text mining 11 million full text patent documents from the European Patent Office, the United States Patent and Trademark Office and the Patent Cooperation Treaty in the period to 2013. The index consists of references to species names that appear in the title, abstract, description or claims of patent documents using the Global Names Index (see below). The index was improved in 2014 by adding an additional index using the World Register of Marine Species (WoRMS) and additional data from the [Ocean Biogeographic Information System](http://www.iobis.org/) database. The index covers patent documents back to 1976 but terminates in 2013 when the research on which it is based was completed (in 2014). 
+
+3. Clarivate Analytics Derwent Innovation
+
+Clarivate Analytics provides access to the commercial Derwent Innovation (formerly Thomson Innovation). Derwent Innovation has the advantage of possessing copies of the National Collections for ASEAN countries. In addition Derwent Innovation provides ready access to whole texts exports for text mining and additional supplementary Abstract fields prepared by specialists on the use, advantage and novelty of a claimed invention. This information can be very useful in understanding the focus of an invention. 
+
+We downloaded the relevant records from Derwent Innovation for text mining using Vantage Point. In a subsequent step described in greater detail in the section on the patent landscape we used a modified search to capture additional references to species and an ASEAN country. This data was text mined to identify marine species in the title, abstract, description and claims. 
+
+## Species Data
+
+The raw data from Web of Science was imported in to the Academic version of [VantagePoint](https://thevantagepoint.com/) text mining and analytics software from Search Technology Inc. Vantage Point provides easy access to the words and phrases that appear in the titles, abstracts, author keywords and keywords plus of Web of Science data. 
+
+Building on previous work we used a version of the [Global Names Index](http://gni.globalnames.org/) that had been edited from the original 19 million to a list of 6 million binomial names. This list was used to identify species names in the combined titles, abstracts, author keywords and keywords plus. 
+
+Marine species in the species data were identified using a text version of the [World Register of Marine Species](http://www.marinespecies.org/). 
+
+The species names and species like names in the Global Names Index are raw names and include many spelling variations and synonyms for the same species. To resolve these issues we used the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) API or web service through the ROpenSci [rgbif]() and [taxize]().
+
+In an additional step the [Lifewatch Belgium](http://www.lifewatch.be/data-services/?cache=1521050271) data service was used for bulk retrieval of information on Aphia accepted names and available environment information from the WoRMS online database. 
+
+Species occurrence data was downloaded from GBIF for each ASEAN country and an additional bounding box dataset was downloaded to capture additional marine records as described in section 1 on Biodiversity in the ASEAN region. 
+
+## Mapping
+
+The geographic locations of research organisations involved in marine research were converted from abbreviated form in Web of Science to longer forms suitable for georeferencing. 
+
+We used the R `placement` package to access the Google Maps API to geocode organisation names in Web of Science data. The data was visualized in Tableau 
+
+<!---Additional geographic data sources for marine related issues are.
+
+1. [The General Bathymetric Chart of the Oceans (GEBCO) Gazeteer](http://www.gebco.net/data_and_products/undersea_feature_names/)
+
+2. [The Interridge Vents Database](https://vents-data.interridge.org/)
+
+3. The [geonames export dump](http://download.geonames.org/export/dump/) was processed into the R [places]() package to provide access to the daily geonames export files. Geocoded data for ASEAN countries and underwater feature names was extracted from the main data table. --->
+
+## Data Processing
+
+Name cleaning for person and organisation names was performed in VantagePoint from Search Technology Inc. 
+
+The majority of data processing was performed in the R programming language [@r_core]. Primary data processing was performed using the [tidyverse](https://github.com/tidyverse/tidyverse) packages developed by Hadley Wickham and colleagues. The [refinr](https://github.com/ChrisMuir/refinr) package by Chris Muir was used for additional name cleaning. The [geofacet](https://github.com/hafen/geofacet) package by Ryan Hafen was used in the creation of faceted plots. 
+
+ROpenSci packages were used extensively during the research, notably [rgbif](https://github.com/ropensci/rgbif), [taxize](https://github.com/ropensci/taxize) and [rcrossref](https://github.com/ropensci/rcrossref) developed and maintained by Scott Chamberlain and colleagues. 
+
+Text mining was performed in Vantage Point and in R using the [tidytext](https://github.com/juliasilge/tidytext) package from Julia Silge and Daniel Robinson [@Fay_2018]
+
+
+## Visualisation
+
+Visualisation of the data outside the mapping using leaflet was carried out as follows
+
+1. Exploratory graphs were created in R with ggplot2 and later with geofacet. The main graphing was conducted in Tableau
+
+2. Networks were visualised in Gephi
+
+3. Sankey diagrams were created in R using the [networkD3 package](https://christophergandrud.github.io/networkD3/)
+
+4. An online interactive workbook was created in Tableau Public
