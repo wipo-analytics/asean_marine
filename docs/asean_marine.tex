@@ -34,46 +34,6 @@
             pdfborder={0 0 0},
             breaklinks=true}
 \urlstyle{same}  % don't use monospace font for urls
-\usepackage{color}
-\usepackage{fancyvrb}
-\newcommand{\VerbBar}{|}
-\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
-\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
-% Add ',fontsize=\small' for more characters per line
-\usepackage{framed}
-\definecolor{shadecolor}{RGB}{248,248,248}
-\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
-\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
-\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
-\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\BuiltInTok}[1]{#1}
-\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
-\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
-\newcommand{\ExtensionTok}[1]{#1}
-\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
-\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\ImportTok}[1]{#1}
-\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
-\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
-\newcommand{\NormalTok}[1]{#1}
-\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
-\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
-\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
-\newcommand{\RegionMarkerTok}[1]{#1}
-\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
-\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
-\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
 \usepackage{longtable,booktabs}
 % Fix footnotes in tables (requires footnote package)
 \IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{longtable}}{}
@@ -959,47 +919,62 @@ approximately \texttt{xxx} organisations were involved in marine
 research linked to the ASEAN region. Advances in the availability of
 geomapping tools, in this case the Google Maps API, made it possible to
 geocode the nearly 4,000 organisations involved in marine genetic
-research. \texttt{Figure\ 3.7} displays the results along with a
-selection of linked records from the National University of Singapore.
-\footnote{The interactive version of this figure is accessible INSERT
-  \href{}{here} and will display the results by institution}
+research. Figure \ref{fig:organisationmap} displays the results along
+with a selection of linked records from the National University of
+Singapore. \footnote{The interactive version of this figure is
+  accessible INSERT \href{}{here} and will display the results by
+  institution}
 
-\includegraphics[width=13.89in]{images/aseanmarinlit_organisation}
+\begin{figure}
 
-\emph{Figure 3.7} reveals, as we might expect, that the major clusters
-of research activity is found within the ASEAN region extending through
-to Japan, Australia and China. However, we can also observe a wider set
-of connections including with India, Africa, Europe and the United
-States that make clear the global nature of research on the marine
-environment in the ASEAN region.
+{\centering \includegraphics[width=1\linewidth]{images/aseanmarinlit_organisation} 
+
+}
+
+\caption{Geographic Distribution of Organisations Publishing on Marine Genetic Resources in the ASEAN Region}\label{fig:organisationmap}
+\end{figure}
+
+Figure \ref{fig:organisationmap} reveals, as we might expect, that the
+major clusters of research activity is found within the ASEAN region
+extending through to Japan, Australia and China. However, we can also
+observe a wider set of connections including with India, Africa, Europe
+and the United States that make clear the global nature of research on
+the marine environment in the ASEAN region.
 
 As with the country networks, this data can also be visualised as a
-network. \emph{Figure 3.8} displays the network of collaborating
-organisations for organisations with 20 or more publications involving
-marine species. The nodes in the network are sized on the number of
-publications associated with the organisation. The lines represent the
-connections (in the form of co-authored articles) between the
-organisations with heavier lines representing stronger collaborative
-links. Finally colours seek to identify communities based on the
-strength of the co-author linkages between the actors in the network
-using the modularity class algorithm in Gephi for community detection
-\citep{Blondel_2008}. This suggests that researchers at the National
-University of Singapore leads a networked community of researchers
-involving Nanyang Technology University in Singapore, the Chinese
-Academy of Sciences and the University of Queensland (Australia) among
-others. In contrast, Mahidol University, Chulalongkorn University and
-Prince Songkla University in Thailand are all prominent in conducting
-research involving marine genetic resources but have stronger links with
-Tokyo University of Marine Science and Technology, Deakin University
-(USA) and the University of California at Davis (USA). For the
-Philippines, a strong connection emerges with the University of Tokyo.
-For Vietnam, which appears on the outer edges of the network a
+network. Figure \ref{fig:organisationnetwork} displays the network of
+collaborating organisations for organisations with 20 or more
+publications involving marine species. The nodes in the network are
+sized on the number of publications associated with the organisation.
+The lines represent the connections (in the form of co-authored
+articles) between the organisations with heavier lines representing
+stronger collaborative links. Finally colours seek to identify
+communities based on the strength of the co-author linkages between the
+actors in the network using the modularity class algorithm in Gephi for
+community detection \citep{Blondel_2008}. This suggests that researchers
+at the National University of Singapore lead a networked community of
+researchers involving Nanyang Technology University in Singapore, the
+Chinese Academy of Sciences and the University of Queensland (Australia)
+among others. In contrast, Mahidol University, Chulalongkorn University
+and Prince Songkla University in Thailand are all prominent in
+conducting research involving marine genetic resources but have stronger
+links with Tokyo University of Marine Science and Technology, Deakin
+University (USA) and the University of California at Davis (USA). For
+the Philippines, a strong connection emerges with the University of
+Tokyo. For Vietnam, which appears on the outer edges of the network a
 relationship emerges between the Vietnam Academy of Science and
 Technology and the Russian Academy of Sciences with other links in the
 Vietnam community to Seoul National University and Gyeongsang National
 University in South Korea.
 
-\includegraphics[width=14.22in]{images/aseanmarinlit_organisations_gephi}
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{images/aseanmarinlit_organisations_gephi} 
+
+}
+
+\caption{Collaboration Networks for Organisations publishing on Marine Genetic Resources in the ASEAN region based on shared publications}\label{fig:organisationnetwork}
+\end{figure}
 
 These networks are revealed through the analysis of the institutional
 affiliation of authors, but they are generally hidden networks in so far
@@ -1014,34 +989,49 @@ organisations involved in research networks on marine genetic resources
 in the ASEAN region are also involved in patent activity.
 
 We can perform a similar analysis for the researchers whose
-collaborations establish these networks. \emph{Figure 3.9} visualises
-the network of authors with 20 or more publications involving marine
-organisms and uses a community detection algorithm to identify clusters
-of collaborating authors. We will return to this analysis in more detail
-in consideration of the patent data. However, for the moment we observe
-the prominence of Anchalee Tassanakajon at Chulalongkorn University in
-Thailand who has conducted extensive research on the tiger shrimp
-(\emph{Penaeaus mondon}) and on the outer edge of the network Nobel
-Prize winner Sydney Brenner who has collaborated with Byrappa Venkatesh
-from the Institute for Molecular \& Cell Biology in Singapore in ground
-breaking research on the puffer fish genome (Fugu rubripes)
-\citep{Brenner_1993}.
+collaborations establish these networks. Figure \ref{fig:authornetwork}
+visualises the network of authors with 20 or more publications involving
+marine organisms and uses a community detection algorithm to identify
+clusters of collaborating authors. We will return to this analysis in
+more detail in consideration of the patent data. However, for the moment
+we observe the prominence of Anchalee Tassanakajon at Chulalongkorn
+University in Thailand who has conducted extensive research on the tiger
+shrimp (\emph{Penaeaus mondon}) and on the outer edge of the network
+Nobel Prize winner Sydney Brenner who has collaborated with Byrappa
+Venkatesh from the Institute for Molecular \& Cell Biology in Singapore
+in ground breaking research on the puffer fish genome (\emph{Fugu
+rubripes}) \citep{Brenner_1993}.
 
-\includegraphics[width=14.22in]{images/aseanmarinlit_author20plus}
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{images/aseanmarinlit_author20plus} 
+
+}
+
+\caption{Collaboration Networks for Researchers publishing on Marine Genetic Resources in the ASEAN region based on shared publications}\label{fig:authornetwork}
+\end{figure}
 
 We can gain a clearer picture of the relationship between the leading
 researchers in these clusters and the species involved in their research
 by placing the researchers and the species that are the target of their
-research in the same network graph. \texttt{Figure\ 3.10} displays the
-top species, based on the number of records in green and the main
-researchers in pink.
+research in the same network graph. Figure
+\ref{fig:speciesresearchernetwork} displays the top species, based on
+the number of records in green and the main researchers in pink.
 
-\includegraphics[width=14.22in]{images/asean_authors_species_directed}
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{images/asean_authors_species_directed} 
+
+}
+
+\caption{Researchers to Species Network in South East Asia}\label{fig:speciesresearchernetwork}
+\end{figure}
 
 In terms of the overall ranking based on publications Peter Ng Kee Lin
 is the leading researcher on marine species within the ASEAN region
-according to our data. However, in \texttt{Figure\ 3.10} no prominent
-connections emerge to species. This reflects the fact that
+according to our data. However, in Figure
+\ref{fig:speciesresearchernetwork} no prominent connections emerge to
+species. This reflects the fact that
 \href{https://lkcnhm.nus.edu.sg/dna/people/details/17}{Professor Ng Kee
 Lin} is a biologist and taxonomist who has worked on a wide range of
 species (notably freshwater and marine crabs)
@@ -1049,12 +1039,12 @@ species (notably freshwater and marine crabs)
 his research is dispersed across a range of species and therefore not
 immediately visible.
 
-In contrast \texttt{Figure\ 3.10} reveals that
+In contrast Figure \ref{fig:speciesresearchernetwork} reveals that
 \href{http://www.bc.sc.chula.ac.th/11Anchalee.html}{Anchalee
 Tassanakajon} at Chulalongkorn University in Thailand is a leading
 researcher working on \emph{Peneaus mondon} with links to work on
 \emph{Penaeus vannamei}, \emph{Litopenaeus vannamei}, \emph{Haliotis
-asinina} (a large sea snail known as the ass's ear abalone) and the main
+asinina} (a large sea snail known as ass's ear abalone) and the main
 \emph{Vibrio} pathogens
 \citep{Wongteerasupaya_1995, Supungul_2004, Kaewkascholkul_2016}.
 \href{http://www.sc.mahidol.ac.th/scan/old/Prasert.htm}{Professor
@@ -1072,8 +1062,8 @@ techniques \citep{Wongteerasupaya_1995} with recent work focusing on the
 use of a protein extract from red seaweed to prevent hepatopancreatic
 necrosis in shrimp \citep{Boonsri_2016}. In practice all three
 researchers while leading distinct groups have collaborated on a number
-of publications in the past {[}\citet{Wongteerasupaya_1995};
-\citet{Pongtippatee_2007}; Wongteerasupaya\_1997{]}.
+of publications in the past
+\citep{Wongteerasupaya_1995, Pongtippatee_2007, Wongteerasupaya_1997}.
 
 This form of network analysis usefully displays the relationship between
 researchers and the species they are researching. However, the
@@ -1081,25 +1071,29 @@ prominence of aquaculture focused research in the ASEAN research
 landscape can also, as we saw in the case of Professor Ng Kee Lin,
 disguise other areas of research.
 
-\texttt{Figure\ 3.9} revealed a research cluster focused around Chau Van
-Minh at the Vietnam Academy of Science and Technology (VAST) in Hanoi
-whose work, mainly conducted in collaboration with Phan Van Kiem (now at
-Chungham National University in South Korea), has included an explicit
-focus on pharmaceutical compounds from Marine Natural Products
-\citep[\citet{Thao_2015a}]{Van_Minh_2017, Quang_2011, Thao_2015}. As we
-saw in Figure x` this appears to reflect the underlying research
-investments by funding organisations in Vietnam. We can gain a clearer
-view of the genera involved in research directed towards chemistry,
-pharmacology and biotechnology by removing dominant genera such as
-Peneaus and restricting subject areas to those in chemistry,
-pharmacology and biotechnology. This data is displayed in \emph{Figure
-3.10}.
+Figure \ref{fig:authornetwork} revealed a research cluster focused
+around Chau Van Minh at the Vietnam Academy of Science and Technology
+(VAST) in Hanoi whose work, mainly conducted in collaboration with Phan
+Van Kiem (now at Chungham National University in South Korea), has
+included an explicit focus on pharmaceutical compounds from Marine
+Natural Products
+\citep{Van_Minh_2017, Quang_2011, Thao_2015, Thao_2015a}. As we saw in
+Figure \ref{fig:sankeyfunding} this appears to reflect the underlying
+research investments by funding organisations in Vietnam. We can gain a
+clearer view of the genera involved in research directed towards
+chemistry, pharmacology and biotechnology by removing dominant genera
+such as Peneaus and restricting subject areas to those in chemistry,
+pharmacology and biotechnology. This data is displayed in Figure
+\ref{fig:pharmasankey}.
 
-\begin{verbatim}
-## Links is a tbl_df. Converting to a plain data frame.
-\end{verbatim}
+\begin{figure}
 
-\includegraphics{asean_marine_files/figure-latex/pharma_sankey-1.pdf}
+{\centering \includegraphics[width=1.2\linewidth]{asean_marine_files/figure-latex/pharmasankey-1} 
+
+}
+
+\caption{Pharmaceutical Focused Research for Marine Genetic Resources in the ASEAN region}\label{fig:pharmasankey}
+\end{figure}
 
 The top genus emerging in this area are sea snails (gastropods) in the
 Conus genera with a total of 37 publications in the ASEAN data. Top
@@ -1172,8 +1166,8 @@ resources.
 We begin the section with a brief overview of patent activity in the
 region and consideration of the challenges involved in examining patent
 activity in ASEAN countries. We then move into analysis of patent
-activity from of referencing ASEAN countries that includes a marine
-species.
+activity that includes a marine species originating from or making
+reference to an ASEAN country.
 
 \hypertarget{patent-overview}{%
 \subsection{Patent Overview}\label{patent-overview}}
@@ -1205,10 +1199,10 @@ We initiated research with PATSTAT (Autumn 2016 edition) by identifying:
 \end{enumerate}
 
 These documents may contain duplicates and were deduplicated to 299,830
-applications. This data is presented in the left panel of \emph{Figure
-4.1}.
+applications. This data is presented in the left panel of Figure
+\ref{fig:coverage}.
 
-It is immediately clear from \emph{Figure 4.1} that the data is
+It is immediately clear from Figure \ref{fig:coverage} that the data is
 irregular across countries. For Indonesia, PATSTAT data is limited to
 information from the late 1990s and early 2000s. The Philippines
 displays a pattern of an early peak in the 1990s followed by a long
@@ -1218,20 +1212,27 @@ sight the data for Malaysia and Singapore appears to be more consistent
 however, the presence of major peaks or troughs is typically a sign of
 missing or incomplete data.
 
-\begin{center}\includegraphics[width=11.49in]{images/patstat_and_clarivate} \end{center}
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{images/patstat_and_clarivate} 
+
+}
+
+\caption{PATSTAT and Derwent Innovation coverage for ASEAN countries}\label{fig:coverage}
+\end{figure}
 
 To test levels of data completeness, the same query was performed using
 Derwent Innovation from Clarivate Analytics (formerly Thomson
-Innovation). Clarivate Analytics includes the full text collections for
+Innovation). Derwent Innovation includes the full text collections for
 the majority of ASEAN countries (Malaysia, Singapore, Vietnam, Thailand
 and the Philippines). Datasets were downloaded and deduplicated to
 461,380 distinct patent applications. Trends based on Derwent Innovation
-data are displayed in the right hand panel of \emph{Figure 4.1}. This
-approach yielded an additional 162,000 applications and had a dramatic
-impact on the availability of data from ASEAN countries. Data for
-Singapore radically improves for recent years with improvements in data
-for Thailand on a more modest level. Data for Vietnam, again for recent
-years, also improves markedly.
+data are displayed in the right hand panel of Figure \ref{fig:coverage}.
+This approach yielded an additional 162,000 applications and had a
+dramatic impact on the availability of data from ASEAN countries. Data
+for Singapore radically improves for recent years with improvements in
+data for Thailand on a more modest level. Data for Vietnam, again for
+recent years, also improves markedly.
 
 Comparison of the data between PATSTAT and Derwent Innovation exposes
 two problems. The first of these in the case of PATSTAT is the problem
@@ -1246,7 +1247,11 @@ electronic records.
 
 The practical consequence of these issues is that data for ASEAN
 countries is presently incomplete. We are therefore obliged to work
-within the constraints of the available data.
+within the constraints of the available data. However, we would note
+that the availability and completeness of the patent collections for the
+ASEAN region will also affect the ability of ASEAN countries to fully
+understand and assess the economic significance of patent activity for
+their country and region.
 
 \hypertarget{search-strategy}{%
 \subsection{Search Strategy}\label{search-strategy}}
@@ -1278,7 +1283,8 @@ wider activity. To achieve this we used a three part methodology.
 \item
   Combining the data with existing data on marine patent activity within
   the ABSPAT index linked to ASEAN countries. The ABSPAT index consists
-  of 6.5 million sentences from patent documents that contain a country
+  of 6.5 million sentences from patent documents from the full texts of
+  the EPO, USPTO and PCT collections until 2013 that contain a country
   name and a separate table containing 21.4 million sentences containing
   a species names. The ASEAN country names were identified in the
   country table and then cross referenced with the species table
@@ -1294,15 +1300,28 @@ wider activity. To achieve this we used a three part methodology.
   that would capture those names. This strategy was advanced by
   developing a query that captured species names without directly using
   a species name. Experimentation with the texts of the 6,521 first
-  filings for the ASEAN region mentioned above revealed that the
-  following search strategy captured 98\% of documents in the dataset.
+  filings for the ASEAN region mentioned above from ABSPAT revealed that
+  the following search strategy captured 98\% of documents in the
+  dataset.
 \end{enumerate}
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\StringTok{"species"}\NormalTok{ OR }\StringTok{"genus"}\NormalTok{ OR }\StringTok{"family"}\NormalTok{ OR }\StringTok{"order"}\NormalTok{ OR }\StringTok{"phylum"}\NormalTok{ OR }\StringTok{"class"}\NormalTok{ OR }\StringTok{"kingdom"}\NormalTok{ OR }\StringTok{"tribe"}\NormalTok{ OR }\StringTok{"DNA"}\NormalTok{ OR }\StringTok{"nucleic"}\NormalTok{ OR }\StringTok{"nucleotide"}\NormalTok{ OR }\StringTok{"amino"}\NormalTok{ OR }\StringTok{"polypeptide"}\NormalTok{ OR }\StringTok{"sequence"}\NormalTok{ OR }\StringTok{"SEQ ID"}\NormalTok{ OR }\StringTok{"protein"}\NormalTok{ OR }\StringTok{"proteins"}\NormalTok{ OR }\StringTok{"peptides"}\NormalTok{ OR }\StringTok{"peptide"}\NormalTok{ OR }\StringTok{"enzyme"}\NormalTok{ OR }\StringTok{"enzymes"}\NormalTok{ OR }\StringTok{"plant"}\NormalTok{ OR }\StringTok{"plants"}\NormalTok{ OR }\StringTok{"animal"}\NormalTok{ OR }\StringTok{"animals"}\NormalTok{ OR }\StringTok{"mammal"}\NormalTok{ OR }\StringTok{"mammals"}\NormalTok{ OR }\StringTok{"mammalian"}\NormalTok{ OR }\StringTok{"bacteria"}\NormalTok{ OR }\StringTok{"protozoa"}\NormalTok{ OR }\StringTok{"virus"}\NormalTok{ OR }\StringTok{"viruses"}\NormalTok{ OR }\StringTok{"fungi"}\NormalTok{ OR }\StringTok{"animalia"}\NormalTok{ OR }\StringTok{"archaea"}\NormalTok{ OR }\StringTok{"chromista"}\NormalTok{ OR }\StringTok{"chromist"}\NormalTok{ OR }\StringTok{"chromists"}\NormalTok{ OR }\StringTok{"protista"}\NormalTok{ OR }\StringTok{"protist"}\NormalTok{ OR }\StringTok{"protists"}\NormalTok{ OR }\StringTok{"plantae"}\NormalTok{ OR }\StringTok{"eukaryotes"}\NormalTok{ OR }\StringTok{"eukaryotes"}\NormalTok{ OR }\StringTok{"eukaryote"}\NormalTok{ OR }\StringTok{"prokarya"}\NormalTok{ OR }\StringTok{"prokaryote"}\NormalTok{ OR }\StringTok{"prokaryotes"}\NormalTok{ OR }\StringTok{"microorganism"}\NormalTok{ OR }\StringTok{"microorganisms"}\NormalTok{ OR }\StringTok{"organism"}\NormalTok{ OR }\StringTok{"organisms"}\NormalTok{ OR }\StringTok{"cell"}\NormalTok{ OR }\StringTok{"cells"}\NormalTok{ OR }\StringTok{"gene"}\NormalTok{ OR }\StringTok{"genes"}\NormalTok{ OR }\StringTok{"genetic"}\NormalTok{ OR }\StringTok{"viral"}\NormalTok{ OR }\StringTok{"biological"}\NormalTok{ OR }\StringTok{"biology"}\NormalTok{ OR }\StringTok{"strain"}\NormalTok{ or }\StringTok{"strains"}\NormalTok{ or }\StringTok{"variety"}\NormalTok{ or }\StringTok{"varieties"}
-\end{Highlighting}
-\end{Shaded}
+\begin{quote}
+``species'' OR ``genus'' OR ``family'' OR ``order'' OR ``phylum'' OR
+``class'' OR ``kingdom'' OR ``tribe'' OR ``DNA'' OR ``nucleic'' OR
+``nucleotide'' OR ``amino'' OR ``polypeptide'' OR ``sequence'' OR ``SEQ
+ID'' OR ``protein'' OR ``proteins'' OR ``peptides'' OR ``peptide'' OR
+``enzyme'' OR ``enzymes'' OR ``plant'' OR ``plants'' OR ``animal'' OR
+``animals'' OR ``mammal'' OR ``mammals'' OR ``mammalian'' OR
+``bacteria'' OR ``protozoa'' OR ``virus'' OR ``viruses'' OR ``fungi'' OR
+``animalia'' OR ``archaea'' OR ``chromista'' OR ``chromist'' OR
+``chromists'' OR ``protista'' OR ``protist'' OR ``protists'' OR
+``plantae'' OR ``eukaryotes'' OR ``eukaryotes'' OR ``eukaryote'' OR
+``prokarya'' OR ``prokaryote'' OR ``prokaryotes'' OR ``microorganism''
+OR ``microorganisms'' OR ``organism'' OR ``organisms'' OR ``cell'' OR
+``cells'' OR ``gene'' OR ``genes'' OR ``genetic'' OR ``viral'' OR
+``biological'' OR ``biology'' OR ``strain'' or ``strains'' or
+``variety'' or ``varieties''
+\end{quote}
 
 Beyond these terms the addition of new terms produced diminishing
 returns. If used across the full texts of the Derwent Innovation
@@ -1326,17 +1345,32 @@ from the region we therefore adopted a strategy of:
 The search query was run in two sets (1990-2009 and 2010-2017) focusing
 on the US, EP, JP and WO and the ASEAN jurisdictions.
 
-\begin{Shaded}
-\begin{Highlighting}[]
-\NormalTok{(PY}\OperatorTok{>=}\NormalTok{(}\DecValTok{1990}\NormalTok{) AND PY}\OperatorTok{<=}\NormalTok{(}\DecValTok{2009}\NormalTok{)) AND DSC=(}\StringTok{"brunei"}\NormalTok{ or }\StringTok{"cambodia"}\NormalTok{ or }\StringTok{"indonesia"}\NormalTok{ or }\StringTok{"laos"}\NormalTok{ or }\StringTok{"lao"}\NormalTok{ or }\StringTok{"malaysia"}\NormalTok{ or }\StringTok{"philippines"}\NormalTok{ or }\StringTok{"myanmar"}\NormalTok{ or }\StringTok{"burma"}\NormalTok{ or }\StringTok{"singapore"}\NormalTok{ or }\StringTok{"thailand"}\NormalTok{ or }\StringTok{"vietnam"}\NormalTok{) AND CTB=(}\StringTok{"species"}\NormalTok{ OR }\StringTok{"genus"}\NormalTok{ OR }\StringTok{"family"}\NormalTok{ OR }\StringTok{"order"}\NormalTok{ OR }\StringTok{"phylum"}\NormalTok{ OR }\StringTok{"class"}\NormalTok{ OR }\StringTok{"kingdom"}\NormalTok{ OR }\StringTok{"tribe"}\NormalTok{ OR }\StringTok{"DNA"}\NormalTok{ OR }\StringTok{"nucleic"}\NormalTok{ OR }\StringTok{"nucleotide"}\NormalTok{ OR }\StringTok{"amino"}\NormalTok{ OR }\StringTok{"polypeptide"}\NormalTok{ OR }\StringTok{"sequence"}\NormalTok{ OR }\StringTok{"SEQ ID"}\NormalTok{ OR }\StringTok{"protein"}\NormalTok{ OR }\StringTok{"proteins"}\NormalTok{ OR }\StringTok{"peptides"}\NormalTok{ OR }\StringTok{"peptide"}\NormalTok{ OR }\StringTok{"enzyme"}\NormalTok{ OR }\StringTok{"enzymes"}\NormalTok{ OR }\StringTok{"plant"}\NormalTok{ OR }\StringTok{"plants"}\NormalTok{ OR }\StringTok{"animal"}\NormalTok{ OR }\StringTok{"animals"}\NormalTok{ OR }\StringTok{"mammal"}\NormalTok{ OR }\StringTok{"mammals"}\NormalTok{ OR }\StringTok{"mammalian"}\NormalTok{ OR }\StringTok{"bacteria"}\NormalTok{ OR }\StringTok{"protozoa"}\NormalTok{ OR }\StringTok{"virus"}\NormalTok{ OR }\StringTok{"viruses"}\NormalTok{ OR }\StringTok{"fungi"}\NormalTok{ OR }\StringTok{"animalia"}\NormalTok{ OR }\StringTok{"archaea"}\NormalTok{ OR }\StringTok{"chromista"}\NormalTok{ OR }\StringTok{"chromist"}\NormalTok{ OR }\StringTok{"chromists"}\NormalTok{ OR }\StringTok{"protista"}\NormalTok{ OR }\StringTok{"protist"}\NormalTok{ OR }\StringTok{"protists"}\NormalTok{ OR }\StringTok{"plantae"}\NormalTok{ OR }\StringTok{"eukaryotes"}\NormalTok{ OR }\StringTok{"eukaryotes"}\NormalTok{ OR }\StringTok{"eukaryote"}\NormalTok{ OR }\StringTok{"prokarya"}\NormalTok{ OR }\StringTok{"prokaryote"}\NormalTok{ OR }\StringTok{"prokaryotes"}\NormalTok{ OR }\StringTok{"microorganism"}\NormalTok{ OR }\StringTok{"microorganisms"}\NormalTok{ OR }\StringTok{"organism"}\NormalTok{ OR }\StringTok{"organisms"}\NormalTok{ OR }\StringTok{"cell"}\NormalTok{ OR }\StringTok{"cells"}\NormalTok{ OR }\StringTok{"gene"}\NormalTok{ OR }\StringTok{"genes"}\NormalTok{ OR }\StringTok{"genetic"}\NormalTok{ OR }\StringTok{"viral"}\NormalTok{ OR }\StringTok{"biological"}\NormalTok{ OR }\StringTok{"biology"}\NormalTok{ OR }\StringTok{"strain"}\NormalTok{ or }\StringTok{"strains"}\NormalTok{ or }\StringTok{"variety"}\NormalTok{ or }\StringTok{"varieties"}\NormalTok{ or }\StringTok{"common name"}\NormalTok{);}
-\end{Highlighting}
-\end{Shaded}
+\begin{quote}
+(PY\textgreater{}=(1990) AND PY\textless{}=(2009)) AND DSC=(``brunei''
+or ``cambodia'' or ``indonesia'' or ``laos'' or ``lao'' or ``malaysia''
+or ``philippines'' or ``myanmar'' or ``burma'' or ``singapore'' or
+``thailand'' or ``vietnam'') AND CTB=(``species'' OR ``genus'' OR
+``family'' OR ``order'' OR ``phylum'' OR ``class'' OR ``kingdom'' OR
+``tribe'' OR ``DNA'' OR ``nucleic'' OR ``nucleotide'' OR ``amino'' OR
+``polypeptide'' OR ``sequence'' OR ``SEQ ID'' OR ``protein'' OR
+``proteins'' OR ``peptides'' OR ``peptide'' OR ``enzyme'' OR ``enzymes''
+OR ``plant'' OR ``plants'' OR ``animal'' OR ``animals'' OR ``mammal'' OR
+``mammals'' OR ``mammalian'' OR ``bacteria'' OR ``protozoa'' OR
+``virus'' OR ``viruses'' OR ``fungi'' OR ``animalia'' OR ``archaea'' OR
+``chromista'' OR ``chromist'' OR ``chromists'' OR ``protista'' OR
+``protist'' OR ``protists'' OR ``plantae'' OR ``eukaryotes'' OR
+``eukaryotes'' OR ``eukaryote'' OR ``prokarya'' OR ``prokaryote'' OR
+``prokaryotes'' OR ``microorganism'' OR ``microorganisms'' OR
+``organism'' OR ``organisms'' OR ``cell'' OR ``cells'' OR ``gene'' OR
+``genes'' OR ``genetic'' OR ``viral'' OR ``biological'' OR ``biology''
+OR ``strain'' or ``strains'' or ``variety'' or ``varieties'' or ``common
+name'');
+\end{quote}
 
 This dataset consisted of a raw 73,164 documents that were deduplicated
 to the first application numbers to 38,120 first filings. The available
 full texts for these documents were downloaded and text mined for marine
-species names using a tidy text mining approach {[}Robinson and Silge
-2017{]}.
+species names using a tidy text mining approach \citep{R-tidytext}.
 
 In total, this approach yielded 5,742 applications based in 3,587 first
 filings either originating from the ASEAN region or referencing an ASEAN
@@ -1359,15 +1393,22 @@ of this data.
 \subsection{An Overview of Filing
 Trends}\label{an-overview-of-filing-trends}}
 
-\emph{Figure 4.3} presents an overview of the first filings of patent
-applications involving marine genetic resources linked to the ASEAN
-region. Trends in first filings refer to the original filing of an
+Figure \ref{fig:firstfilings} presents an overview of the first filings
+of patent applications involving marine genetic resources linked to the
+ASEAN region. Trends in first filings refer to the original filing of an
 application (anywhere in the world) and displays a characteristic
 \emph{data cliff} the closer we move towards the present day. This
 reflects the lag time between the first filing of a patent application
-and its publications (typically 12 to 24 months after filing).
+and its publication (typically 24 months after filing).
 
-\includegraphics[width=11.49in]{images-patents/first_filings}
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{images-patents/first_filings} 
+
+}
+
+\caption{Trends in First Filings for Marine Species linked to the ASEAN region}\label{fig:firstfilings}
+\end{figure}
 
 The panel on first filings by region aggregates the first filings
 displayed by country using the United Nations regional division and
@@ -1389,51 +1430,73 @@ by reduction to the earliest filings.
 \hypertarget{patent-family-trends}{%
 \subsection{Patent Family Trends}\label{patent-family-trends}}
 
-The first filings of patent applications lead to follow on application
+The first filings of patent applications lead to follow on applications
 and grants (family members) within the country of filing and, using
 international instruments, in other countries. Patent Family analysis
 allows us to identify the markets where applicants are seeking
-protection. \emph{Figure 4.4} displays follow on filings around the
-world by individual country and summarises the data by major United
+protection. Figure \ref{fig:families} displays follow on filings around
+the world by individual country and summarises the data by major United
 Nations region. The data on family members has been adjusted to remove
 search reports from the data for the European Patent Office and the
 Patent Cooperation Treaty to avoid counting purely administrative
 documents.
 
-\includegraphics[width=11.49in]{images-patents/families}
+\begin{figure}
 
-\emph{Figure 4.4} demonstrates that demand for patent rights is highest
-within North America followed by Eastern Asia (China, South Korea and
-Japan) with regional and international patent instruments playing an
-important role in enabling the pursuit of protection in multiple
-markets. The ASEAN region itself is not a major focus of demand for
-patent rights.
+{\centering \includegraphics[width=1\linewidth]{images-patents/families} 
 
-\emph{Figure 4.5} displays the available data on trends in demand for
-patent rights, broken down by the main regions for ease of visibility.
-In \emph{Figure 4.5} a major spike is immediately visible for North
-America that starts at the end of 2001 and peaks in 2003. This is an
-artefact from the transition in the United States from the publication
-of patent grants prior to 2001 to the publication of both applications
-and grants after 2001 leading to an apparent, rather than real, surge in
-activity.
+}
 
-\includegraphics[width=13.89in]{images-patents/family_trends_region}
+\caption{Overview of Patent Family Members world wide for Marine Species linked to the ASEAN region}\label{fig:families}
+\end{figure}
+
+Figure \ref{fig:families} demonstrates that demand for patent rights is
+highest within North America followed by Eastern Asia (China, South
+Korea and Japan) with regional and international patent instruments
+playing an important role in enabling the pursuit of protection in
+multiple markets. The ASEAN region itself is not a major focus of demand
+for patent rights based on the available data.
+
+Figure \ref{fig:familyregiontrends} displays the available data on
+trends in demand for patent rights, broken down by the main regions for
+ease of visibility. In \emph{Figure 4.5} a major spike is immediately
+visible for North America that starts at the end of 2001 and peaks in
+2003. This is an artefact from the transition in the United States from
+the publication of patent grants prior to 2001 to the publication of
+both applications and grants after 2001 leading to an apparent, rather
+than real, surge in activity.
+
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{images-patents/family_trends_region} 
+
+}
+
+\caption{Trends in Family Publications by Major Region for Marine Species linked to the ASEAN region}\label{fig:familyregiontrends}
+\end{figure}
 
 We can also observe that activity for the ASEAN region in the lower
-panel of \emph{Figure 4.5} is at a significantly lower level, across the
-period 2000-2017 and peaking with 100 records in 2015. As this suggests,
-demand for patent rights involving marine genetic resources that can be
-linked to the region is emergent.
+panel of Figure \ref{fig:familyregiontrends} is at a significantly lower
+level, across the period 2000-2017 and peaking with 100 records in 2015.
+As this suggests, demand for patent rights involving marine genetic
+resources that can be linked to the ASEAN region is best classified as
+emergent.
 
 \hypertarget{top-species}{%
 \subsection{Top Species}\label{top-species}}
 
-A single patent document may contain a range of species. \emph{Figure
-4.6} presents an overview of the top species by counts of applications
-and species counts.
+A single patent document may contain a range of species. Figure
+\ref{fig:patentspecies} presents an overview of the top species by
+counts of applications and species counts.
 
-\includegraphics[width=11.49in]{images-patents/patent_species_dashboard}
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{images-patents/patent_species_dashboard} 
+
+}
+
+\caption{Summary Marine Species linked to ASEAN countries in Patent Data}\label{fig:patentspecies}
+\end{figure}
 
 In total 3,114 species from the World Register of Marine Species
 appeared in the patent documents. We have excluded species where they
@@ -1441,9 +1504,9 @@ were classified as terrestrial, or where environment information was not
 available. We have also excluded Fungi from the display of species as
 they are not normally sourced from a marine environment (see below).
 
-\emph{Figure 4.6} illustrates that some of the top species in the
-overall marine data are plants. This also illustrates some of the
-challenges involved in identifying marine species that cross
+Figure \ref{fig:patentspecies} illustrates that a number of the top
+species in the overall marine data are plants. This also illustrates
+some of the challenges involved in identifying marine species that cross
 environments. \emph{Apium graveolens} is better known as Celery and is
 included within the marine data because it was originally a marsh plant
 that can grow in salt water conditions and features in patent activity
@@ -1465,24 +1528,38 @@ solani}, \emph{Aspergillus terreus} and \emph{Alternaria alternata}
 among other fungi in the data are extremely widespread in soils and
 other habitats and patent activity is not typically directly linked with
 these organisms from a marine environment. We have therefore excluded
-fungi from the display of species in \emph{Figure 4.6} while noting that
-marine fungi are an increasing focus of interest in the wider scientific
-literature \citep{Kim_2012}
+fungi from the display of species in Figure \ref{fig:patentspecies}
+while noting that marine fungi are an increasing focus of interest in
+the wider scientific literature \citep[see for example,][]{Kim_2012}. It
+is therefore important not to second guess categories of organism that
+are of interest in the marine environment.
 
-\emph{Figure 4.7} presents the data above in terms of the technology
-areas that are the focus of activity by the number of species and the
-number of applications. The definition of technology areas is based on
-the IPC Subclass. The Subclasses have been edited to short versions for
-ease of presentation.
+Figure \ref{fig:patentspeciestechnology} presents the data above in
+terms of the technology areas that are the focus of activity by the
+number of species and the number of applications. The definition of
+technology areas is based on the use of Subclasses from the
+International Patent Classification. The International Patent
+Classification is used by patent offices worldwide to classify the
+technical content of patent documents and consists of alphanumeric
+codes. Because the descriptions associated with a code may be very long
+the Subclasses have been edited to short versions for ease of
+presentation.
 
-\includegraphics[width=13.89in]{images-patents/technology_areas_species}
+\begin{figure}
 
-\emph{Figure 4.7} reveals that species and applications across the
-dataset are concentrated in the fields of biotechnology and
-pharmaceuticals. However, as we will see in more detail below fields
-such as aquaculture area also prevalent but are dispersed across the
-fields of Animal Husbandry (A01K), Animal Foods (A23K) and Water/Waste
-Water/Sewage Treatment (C02F).
+{\centering \includegraphics[width=1\linewidth]{images-patents/technology_areas_species} 
+
+}
+
+\caption{Summary of Marine Species linked to ASEAN countries in Patent Data}\label{fig:patentspeciestechnology}
+\end{figure}
+
+Figure \ref{fig:patentspeciestechnology} reveals that species and
+applications across the dataset are concentrated in the fields of
+biotechnology and pharmaceuticals. However, as we will see in more
+detail below fields such as aquaculture are also prevalent but dispersed
+across the fields of Animal Husbandry (A01K), Animal Foods (A23K) and
+Water/Waste Water/Sewage Treatment (C02F).
 
 \hypertarget{asean-researchers-as-inventors}{%
 \subsection{ASEAN Researchers as
@@ -1493,34 +1570,44 @@ approximately 17,625 researchers involved in research on marine species
 linked to the ASEAN region. We now focus in on the analysis of those
 researchers within the scientific literature who are also inventors.
 
-In order to identify researchers who are also inventors we mapped the
-names of the 17,625 researchers together with the inventor field
-containing 9,382 cleaned names. Name matches and close name matches were
-then examined against the criteria of the appearance of co-authors who
-are also inventors, applicant name matches and matches on species names.
-Where one or more of the same or very similar names matched with either
-a co-author as inventor, the organisation or the species name they were
-assumed to be what we call an author inventor.
+In order to identify researchers who are also inventors we combined the
+names of the 17,625 researchers from the scientific literature together
+with the inventor name field containing 9,382 cleaned names. Name
+matches and close name matches were then examined against the criteria
+of the appearance of co-authors who are also inventors, author
+affiliation and applicant name matches and matches on species names
+between the scientific and patent literature linked to an author name.
+Where one or more of these criteria were met the author was classified
+as an author inventor.
 
 In total we identified 290 authors who are also inventors in patent
-applications involving marine genetic resources who together accounted
-for 369 applications that referenced 446 marine species.
+applications involving marine genetic resources. Taken together author
+inventors accounted for 369 applications that referenced 446 marine
+species.
 
-\emph{Figure 4.8} displays the rankings for species appearing in patent
-documents based on counts of applications. The smaller panels display
-details for certain kingdoms that would otherwise be hidden.
+Figure \ref{fig:authorinventorspecies} displays the rankings for species
+appearing in patent documents based on counts of applications. The
+smaller panels display details for certain kingdoms that would otherwise
+be hidden.
 
-\includegraphics[width=13.89in]{images-patents/author_inventor_species_dashboard}
+\begin{figure}
 
-In considering \emph{Figure 4.8} we can readily see that animal species
-are dominant with shrimp genera (Penaeus) in the aquaculture sector
-dominating the rankings with \emph{Paralichthys olivaceus} or Japanese
-halibut also appearing high in these rankings. Bacteria in the Vibrio
-genus, again reflecting the aquaculture sector, dominate the rankings
-for bacteria with \emph{Bacillus thermus}, a high temperature and
-alkaline tolerant bacterium, among others such as \emph{Geobacillus
-kaustophilus} (a deep sea bacterium originally isolated from the Mariana
-Trench)\footnote{\url{https://microbewiki.kenyon.edu/index.php/Geobacillus_kaustophilus}}
+{\centering \includegraphics[width=1\linewidth]{images-patents/author_inventor_species_dashboard} 
+
+}
+
+\caption{Summary of Marine Species linked to ASEAN countries in Patent Data}\label{fig:authorinventorspecies}
+\end{figure}
+
+In considering Figure \ref{fig:authorinventorspecies} we can readily see
+that animal species are dominant with shrimp genera (Penaeus) in the
+aquaculture sector dominating the rankings with \emph{Paralichthys
+olivaceus} or Japanese halibut also appearing high in these rankings.
+Bacteria in the Vibrio genus, again reflecting the aquaculture sector,
+dominate the rankings for bacteria with \emph{Bacillus thermus}, a high
+temperature and alkaline tolerant bacterium, among others such as
+\emph{Geobacillus kaustophilus} (a deep sea bacterium reportedly
+isolated from the Mariana Trench)\footnote{\url{https://microbewiki.kenyon.edu/index.php/Geobacillus_kaustophilus}}
 and \emph{Photobacterium damsela} (associated with Pastereullosis in
 fish) appearing in a list of 35 bacteria in the patent documents.
 
@@ -1535,17 +1622,24 @@ fruit tree. \emph{Phleum pratense} is a widely distributed coastal
 grass, and \emph{Rumex crispus}, or yellow dock, is a widespread plant
 with a coastal sub species.
 
-\emph{Figure 4.9} displays a summary for researchers as inventors based
-on counts of the number of patent applications associated with a
-researcher.
+Figure \ref{fig:authorinventordash} displays a summary for researchers
+as inventors based on counts of the number of patent applications
+associated with a researcher.
 
-\includegraphics[width=13.89in]{images-patents/author_inventor_dashboard}
+\begin{figure}
 
-We can clearly see in \emph{Figure 4.9} that while overall applications
-are low, there are clear leaders and that organisations represent a
-mixture of universities, government research organisations and private
-companies across a number of countries including the United States,
-China and Japan.
+{\centering \includegraphics[width=1\linewidth]{images-patents/author_inventor_dashboard} 
+
+}
+
+\caption{A summary of author-inventors by number of applications, organisations and technology areas}\label{fig:authorinventordash}
+\end{figure}
+
+We can clearly see in Figure \ref{fig:authorinventordash} that while
+overall applications are low, there are clear leaders with organisations
+representing a mixture of universities, government research
+organisations and private companies across a number of countries
+including the United States, China and Japan.
 
 In the analysis of the scientific literature we approached the data in
 terms of networks of authors and organisations. We will adopt the same
@@ -1553,27 +1647,43 @@ approach for the analysis of the patent data. Note that collaboration
 networks in patent data, notably between organisations, are typically
 sparser than in the case of the scientific literature.
 
-\emph{Figure 4.10} displays the network clusters for author inventors
-where node size is based on the number of applications associated with a
-researcher. \emph{Figure 4.11} displays the network of organisations
-(applicants) associated with the applications.
+Figure \ref{fig:authorinventornet} displays the network clusters for
+author inventors where node size is based on the number of applications
+associated with a researcher. Figure \ref{fig:authorapplicantnet}
+displays the network of organisations (applicants) associated with the
+applications.
 
-\includegraphics[width=14.22in]{images-patents/author_inventor_network}
+\begin{figure}
 
-\includegraphics[width=14.22in]{images-patents/author_inventor_applicants_network}
+{\centering \includegraphics[width=1\linewidth]{images-patents/author_inventor_network} 
 
-\emph{Figure 4.9} reveals clear clusters of researchers who also appear
-as inventors on patent applications involving marine species. As we will
-see below, in practice the data for researchers reveals three basic sets
-of circumstances where researchers submit patent applications.
+}
+
+\caption{Author-Inventor Networks for Marine Genetic Resources in the ASEAN Region}\label{fig:authorinventornet}
+\end{figure}
+
+\begin{figure}
+
+{\centering \includegraphics[width=1\linewidth]{images-patents/author_inventor_applicants_network} 
+
+}
+
+\caption{Author-Inventor Applicant Networks for Marine Genetic Resources in the ASEAN Region}\label{fig:authorapplicantnet}
+\end{figure}
+
+Figure \ref{fig:authorinventornet} reveals clear clusters of researchers
+who also appear as inventors on patent applications involving marine
+species. As we will see below, in practice the data for researchers
+reveals three basic sets of circumstances where researchers submit
+patent applications.
 
 \begin{enumerate}
 \def\labelenumi{\alph{enumi})}
 \tightlist
 \item
   Cases where a researcher has a pre-existing patent portfolio (that may
-  be in a different subject area such as plant biotechnology) and join a
-  research collaboration in the new area;
+  be in a different subject area such as plant biotechnology) who then
+  joins a research collaboration in the new area;
 \item
   Cases where researchers jointly submit patent applications arising
   from their joint research;
@@ -1582,7 +1692,7 @@ of circumstances where researchers submit patent applications.
   and file patent applications arising from their research;
 \end{enumerate}
 
-In the case of data on applicants the data we can see that as expected,
+In the case of data on applicants we can see that as expected,
 applicants are typically sole applicants. However, we can see cases of
 collaboration in patent filings around the National University of
 Singapore, the University of Utah and the University of Tokyo. In other
@@ -1590,33 +1700,33 @@ cases such as Guangdong Ocean University in China, a significant number
 of filings are observed as a sole applicant.
 
 For ease of exploration of the patent data we will approach the analysis
-using the clusters of researchers as inventors starting with the larger
-clusters and then exploring the patent data based on citation and areas
-of research. In approaching the data note that in some cases patent
-activity involves a researcher outside the region who has collaborated
-with a researcher within the ASEAN region.
-
-The most prominent and top cited cluster in the inventor network is
-represented by
-\href{https://en.wikipedia.org/wiki/Baldomero_Olivera}{Baldomera
-Olivera} who is a graduate of the University of the Philippines and
-Distinguished Professor of Biology at the University of Utah. He
-pioneered research on cone snail toxins (conotoxins)\footnote{\url{https://www.ncbi.nlm.nih.gov/pubmed?term=Olivera\%20BM}}.
-His work on cone snails appeared on the front cover of Science magazine
-in 1990.\footnote{\href{http://science.sciencemag.org/content/249/4966}{Science
-  magazine}}. Research on \emph{Conus magus} by his team led to the
-development of the severe pain analgesic for Ziconotide (SNX-111;
-Prialt) that was approved for use by the US Food and Drug Administration
-in 2004 under the trade name Prialt and subsequently by the European
-Commission in 2005.\footnote{\href{https://en.wikipedia.org/wiki/Ziconotide}{Wikipedia
-  entry for Ziconotide}}. Professor Olivera's research proved to be a
-major spur to research on cone snails and members of the cluster,
-notably Lourdes Cruz (below) have gone on to further research in this
-area.
+using the clusters of author-inventors starting with the larger clusters
+and then exploring the patent data based on the number of citations
+received as a measure of impact and areas of research. In approaching
+the data note that in some cases patent activity involves a researcher
+outside the region who has collaborated with a researcher within the
+ASEAN region.
 
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
-\setcounter{enumi}{1}
+\item
+  The most prominent and top cited cluster in the inventor network is
+  represented by
+  \href{https://en.wikipedia.org/wiki/Baldomero_Olivera}{Baldomera
+  Olivera} who is a graduate of the University of the Philippines and
+  Distinguished Professor of Biology at the University of Utah. He
+  pioneered research on cone snail toxins (conotoxins).\footnote{\url{https://www.ncbi.nlm.nih.gov/pubmed?term=Olivera\%20BM}}
+  His work on cone snails appeared on the front cover of Science
+  magazine in 1990.\footnote{\href{http://science.sciencemag.org/content/249/4966}{Science
+    magazine}} Research on \emph{Conus magus} by his team led to the
+  development of the severe pain analgesic Ziconotide (SNX-111; Prialt)
+  that was approved for use by the US Food and Drug Administration in
+  2004 under the trade name Prialt and subsequently by the European
+  Commission in 2005.\footnote{\href{https://en.wikipedia.org/wiki/Ziconotide}{Wikipedia
+    entry for Ziconotide}} Professor Olivera's research proved to be a
+  major spur to research on cone snails and members of the cluster,
+  notably Lourdes Cruz (below) have gone on to further research in this
+  area.
 \item
   The second major cluster is represented by
   \href{https://www.researchgate.net/scientific-contributions/2040070693_Cheng-Bo_Sun}{Cheng-Bo
@@ -1628,10 +1738,10 @@ area.
   first set, filed on the 9th of June 2015, consists of 8 applications
   and includes methods for cultivating parent fish in waste water from
   prawn cultivation (CN104839079A), a mass scale outdoor cultivation
-  method and facility (CN104839070A), a low soil prawn pond
+  method and facility (CN104839070A), and a low soil prawn pond
   (CN104938381B). A specific focus of these filings is the cultivation
-  of \emph{Sillago sihama} (northern whiting fish). The second set
-  (filed on the 12th of December 2015 focuses on a method for
+  of \emph{Sillago sihama} (northern whiting fish). The second set,
+  filed on the 12th of December 2015, focuses on a method for
   controlling white spot syndrome by polyculture of sea bass and
   \emph{Marsupenaeus japonicus} (CN105494189A), a method for controlling
   bacterial diseases in blue fish and Japanese prawn breeding
