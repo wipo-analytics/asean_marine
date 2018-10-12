@@ -87,15 +87,7 @@ Species occurrence data was downloaded from GBIF for each ASEAN country and an a
 
 The geographic locations of research organisations involved in marine research were converted from abbreviated form in Web of Science to longer forms suitable for georeferencing. 
 
-We used the R `placement` package to access the Google Maps API to geocode organisation names in Web of Science data. The data was visualized in Tableau 
-
-<!---Additional geographic data sources for marine related issues are.
-
-1. [The General Bathymetric Chart of the Oceans (GEBCO) Gazeteer](http://www.gebco.net/data_and_products/undersea_feature_names/)
-
-2. [The Interridge Vents Database](https://vents-data.interridge.org/)
-
-3. The [geonames export dump](http://download.geonames.org/export/dump/) was processed into the R [places]() package to provide access to the daily geonames export files. Geocoded data for ASEAN countries and underwater feature names was extracted from the main data table. --->
+We used the R `placement` package to access the Google Maps API to geocode organisation names in Web of Science data. The data was visualized in Tableau. 
 
 ## Data Processing
 
