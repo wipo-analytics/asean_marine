@@ -49,7 +49,7 @@ Dataset 1 Query:
 
 Dataset 1 file: asean_person_country_patstat.vpt
 
-This 6 gigabyte dataset in VantagePoint format contains 109,744 application records where the person_country in PATSTAT table tls206_person country contained a two letter country code that was either xxxxxx.
+<!---This 6 gigabyte dataset in VantagePoint format contains 109,744 application records where the person_country in PATSTAT table tls206_person country contained a two letter country code that was either xxxxxx.--->
 
 Dataset 2 Query:  
 
@@ -99,7 +99,6 @@ ROpenSci packages were used extensively during the research, notably [rgbif](htt
 
 Text mining was performed in Vantage Point and in R using the [tidytext](https://github.com/juliasilge/tidytext) package from Julia Silge and Daniel Robinson [@Fay_2018]
 
-
 ## Visualisation
 
 Visualisation of the data outside the mapping using leaflet was carried out as follows
@@ -110,4 +109,4 @@ Visualisation of the data outside the mapping using leaflet was carried out as f
 
 3. Sankey diagrams were created in R using the [networkD3 package](https://christophergandrud.github.io/networkD3/)
 
-4. An online interactive workbook was created in Tableau Public
+<!---4. An online interactive workbook was created in Tableau Public--->
