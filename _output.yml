@@ -9,10 +9,11 @@ bookdown::gitbook:
     edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
     download: ["pdf", "epub"]
 bookdown::pdf_book:
-  template: null
+  template: default #was null
   includes:
     in_header: preamble.tex
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
+  toc_depth: 3
 bookdown::epub_book: default

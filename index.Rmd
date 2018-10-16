@@ -1,11 +1,11 @@
 --- 
 title: "The Scientific and Patent Landscape for Marine Genetic Resources in Southeast Asia"
 author: ""
-date: "`r Sys.Date()`"
+date: "2018"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
-bibliography: [crossref.bib, packages.bib]
+bibliography: [crossrefcopy.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: wipo-analytics/asean_marine
@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # {-}
 
-This report is subject to further proof reading and editorial changes.
+This report is subject to minor proof reading and editorial changes.
 
 # Acknowledgements {-}
 

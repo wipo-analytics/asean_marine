@@ -45,13 +45,13 @@ Query construction in IISC PATSTAT is straightforward. We constructed two querie
 
 Dataset 1 Query: 
 
-"(@PersonCountry (BN | KH | ID | LA | MY | MM | PH | SG | TH | VN))""
+"(`@`PersonCountry (BN | KH | ID | LA | MY | MM | PH | SG | TH | VN))""
 
 Dataset 1 file: asean_person_country_patstat.vpt
 
 Dataset 2 Query:  
 
-"(@PubAuthority (BN | KH | ID | LA | MY | MM | PH | SG | TH | VN))"  
+"(`@`PubAuthority (BN | KH | ID | LA | MY | MM | PH | SG | TH | VN))"  
 
 Dataset 2: asean_publn_auth_patstat. 
 
