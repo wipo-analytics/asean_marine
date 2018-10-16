@@ -331,13 +331,6 @@ n1 <- n1 %>% rename(source = "genus")
 links <- n1
 
 links <- links[1:50,] # restrict number for viz
-# I may need to come back to the above but let's give it a try
-# Transform it to connection data frame with tidyr from the tidyverse:
-#links = n1 %>% 
-#  as.data.frame() %>% 
-#  rownames_to_column(var="source") %>% 
-#  gather(key="target", value="value", -1) %>%
-#  filter(value != 0) # keep only values over 0
 
 # Create a node data frame for every entity involved in the flow
 
