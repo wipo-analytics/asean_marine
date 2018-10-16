@@ -49,8 +49,6 @@ Dataset 1 Query:
 
 Dataset 1 file: asean_person_country_patstat.vpt
 
-<!---This 6 gigabyte dataset in VantagePoint format contains 109,744 application records where the person_country in PATSTAT table tls206_person country contained a two letter country code that was either xxxxxx.--->
-
 Dataset 2 Query:  
 
 "(@PubAuthority (BN | KH | ID | LA | MY | MM | PH | SG | TH | VN))"  
@@ -109,4 +107,3 @@ Visualisation of the data outside the mapping using leaflet was carried out as f
 
 3. Sankey diagrams were created in R using the [networkD3 package](https://christophergandrud.github.io/networkD3/)
 
-<!---4. An online interactive workbook was created in Tableau Public--->
