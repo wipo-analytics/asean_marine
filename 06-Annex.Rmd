@@ -61,11 +61,11 @@ In 1987, *C. macrocephalus* were sampled monthly from the rice fields, sump pond
 
 ### Patent activity
 
-There are only 2 patent documents for *C. macrocephalus*. The most commonly cited patent document being for a specialized feed for sensitive organisms, especially larvae or juvenile forms of farmed aquatic organisms and the method of producing the feed [WO_2008_084074_A2](https://www.lens.org/lens/patent/WO_2008_084074_A2).
+There are only 2 patent documents for *C. macrocephalus*. The most commonly cited patent document being for a specialized feed for sensitive organisms, especially larvae or juvenile forms of farmed aquatic organisms and the method of producing the feed [WO2008084074A2](https://www.lens.org/lens/patent/WO_2008_084074_A2).
   
-The other *C. macrocephalus* patent document is for the use of vitamin K3 for treatment of parasitic disease in an individual, such as an animal or human being. Vitamin K3 has been found to be effective in the treatment of fish suffering from parasite infestation [WO_2009_063044_A1](https://www.lens.org/lens/patent/WO_2009_063044_A1).
+The other *C. macrocephalus* patent document is for the use of vitamin K3 for treatment of parasitic disease in an individual, such as an animal or human being. Vitamin K3 has been found to be effective in the treatment of fish suffering from parasite infestation [WO2009063044A1](https://www.lens.org/lens/patent/WO_2009_063044_A1).
 
-A public patent collection is available for this species from [the Lens](https://www.lens.org/lens/collection/24937).
+Search the titles, abstracts and claims of patent documents on [the Lens](https://www.lens.org/lens/search?q=title:(%22Clarias%20macrocephalus%22)%20OR%20abstract:(%22Clarias%20macrocephalus%22)%20OR%20claims:(%22Clarias%20macrocephalus%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/167170) public collection.
 
 
 ## *Lates calcarifer*
@@ -116,13 +116,13 @@ Mangrove inlets and creeks in Selangor, Malaysia are the habitat for 119 species
 
 ### Patent activity
 
-The majority of patent activity centres around aquaculture, specifically, feed (WO 2008/084074 A2), products (WO 2010/027788 A1) and methods(WO 2009/063044 A1).
+The majority of patent activity centres around aquaculture, specifically, feed (WO2008084074A2), products (WO2010027788A1) and methods(WO2009063044A1).
 
-Patent activity includes the novel use of fish skin including *Lates calcarifer* as an industrial source of collagen (see US 2012/0114570 A1, US 2012/0114570 A1).
+Patent activity includes the novel use of fish skin including *Lates calcarifer* as an industrial source of collagen (see US20120114570A1, US20120114570A1).
 
-Medical and cosmetic skin treatments have also been derived from the hatching fluid of fish including *Lates calcarifer* (WO 2014/094918 A1).
+Medical and cosmetic skin treatments have also been derived from the hatching fluid of fish including *Lates calcarifer* (WO2014094918A1).
 
-A public patent collection is available for this species from [the Lens](https://www.lens.org/lens/collection/167170).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Clarias%20macrocephalus%22)%20OR%20abstract:(%22Clarias%20macrocephalus%22)%20OR%20claims:(%22Clarias%20macrocephalus%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/167814) public collection. 
 
 ## *Litopenaeus vannamei*
 
@@ -180,20 +180,20 @@ China, Thailand, Peru to Mexico on the Pacific coast, and Taiwan are referenced 
 
 ### Patent activity
 
-There are 309 patent documents for *Litopenaeus vannamei*, the most commonly cited patent document is for a commercial aquaculture system using algae and artemia as food stuffs for juveniles [US_6615767_B1](https://www.lens.org/lens/patent/US_6615767_B1). Many other patent documents relate to differing forms of aquaculture system for growing *Litopenaeus vannamei*. Other *L. vannamei* patent documents relate to feed compositions, such as one without fish meal [CN_102648738_A](https://www.lens.org/lens/patent/CN_102648738_A).
+There are 309 patent documents for *Litopenaeus vannamei*, the most commonly cited patent document is for a commercial aquaculture system using algae and artemia as food stuffs for juveniles [US6615767B1](https://www.lens.org/lens/patent/US_6615767_B1). Many other patent documents relate to differing forms of aquaculture system for growing *Litopenaeus vannamei*. Other *L. vannamei* patent documents relate to feed compositions, such as one without fish meal [CN102648738A](https://www.lens.org/lens/patent/CN_102648738_A).
 
-Some patent documents for *L. vannamei* relate to inducing immune responses, for example using dsRNA to modulate gene expression and responses to pathogens [US_2005_0080032_A1](https://www.lens.org/lens/patent/US_2005_0080032_A1).
+Some patent documents for *L. vannamei* relate to inducing immune responses, for example using dsRNA to modulate gene expression and responses to pathogens [US20050080032A1](https://www.lens.org/lens/patent/US_2005_0080032_A1).
 
-A public patent collection for this species is available on the [Lens](https://www.lens.org/lens/collection/167171).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Litopenaeus%20vannamei%22)%20OR%20abstract:(%22Litopenaeus%20vannamei%22)%20OR%20claims:(%22Litopenaeus%20vannamei%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/167171) public collection. 
 
-## *Macrobachium rosenbergii*
+## *Macrobrachium rosenbergii*
 
-- **Species name:** *Macrobachium rosenbergii*  
+- **Species name:** *Macrobrachium rosenbergii*  
 - **Kingdom:** Animalia    
 - **Phylum:** Arthropoda [GBIF record](https://www.gbif.org/species/2224546) 
   
 **Brief Description of the Species:**  
-*Macrobachium rosenbergii* known as the Giant River Prawn and the Giant Freshwater Prawn - it is widely fished and also is the main freshwater shrimp cultivated within the commercial aquaculture industry.^[Source IUCN Red List [ http://www.iucnredlist.org/details/197873/0](http://www.iucnredlist.org/details/197873/0)] The body length of this large prawn species is 320 mm for males; and 250 mm for females, as it is a sexually dimporphic species.^[Source FAO [http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en)]
+*Macrobrachium rosenbergii* known as the Giant River Prawn and the Giant Freshwater Prawn - it is widely fished and also is the main freshwater shrimp cultivated within the commercial aquaculture industry.^[Source IUCN Red List [ http://www.iucnredlist.org/details/197873/0](http://www.iucnredlist.org/details/197873/0)] The body length of this large prawn species is 320 mm for males; and 250 mm for females, as it is a sexually dimporphic species.^[Source FAO [http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en)]
 
 Global production of the Giant River Prawn has grown since its inception in the 1970's and by 2002 was 200 000 tonnes/yr.^[Source FAO [http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en](http://www.fao.org/fishery/culturedspecies/Macrobrachium_rosenbergii/en)]
   
@@ -201,7 +201,7 @@ Global production of the Giant River Prawn has grown since its inception in the 
 *M. rosenbergii* is native to Bangladesh; Brunei Darussalam; Cambodia; China; India; Indonesia (Java); Malaysia (Peninsular Malaysia, Sabah, Sarawak); Myanmar (Myanmar (mainland)); Pakistan; Philippines; Singapore; Sri Lanka; Thailand.^[Source IUCN Red List [http://www.iucnredlist.org/details/197873/0](http://www.iucnredlist.org/details/197873/0)] The geographic distribution is now much wider than this as it has been introduced to all continents for aquaculture and is now found in Brazil, Venezuela, Australia, United States, Iceland, Japan, Germany, Iran, Taiwan.^[Source GBIF [https://www.gbif.org/species/2224546](https://www.gbif.org/species/2224546)]
   
 **First description**  
-*M. rosenbergii* was first described by Johannes De Man in 1879 as *Palaemon rosenbergii* in the publication: De Man, 1879, Notes Leyden Mus., 1:167, however in 1966 Johnson renamed it to its current nomenclature of *Macrobachium rosenbergii*.^[L.B. Holthius, L.B. (1980) [http://www.fao.org/fi/oldsite/eims_search/advanced_s_result.asp?JOB_NO=AC477](http://www.fao.org/fi/oldsite/eims_search/advanced_s_result.asp?JOB_NO=AC477)]
+*M. rosenbergii* was first described by Johannes De Man in 1879 as *Palaemon rosenbergii* in the publication: De Man, 1879, Notes Leyden Mus., 1:167, however in 1966 Johnson renamed it to its current nomenclature of *Macrobrachium rosenbergii*.^[L.B. Holthius, L.B. (1980) [http://www.fao.org/fi/oldsite/eims_search/advanced_s_result.asp?JOB_NO=AC477](http://www.fao.org/fi/oldsite/eims_search/advanced_s_result.asp?JOB_NO=AC477)]
 
 ```{r echo=FALSE, fig.cap="Macrobrachium rosenbergii, By Citron CC BY-SA 3.0", fig.align='center'}
 knitr::include_graphics("images_species/Macrobrachium_rosenbergii.jpg")
@@ -213,7 +213,7 @@ knitr::include_graphics("images_species/Macrobrachium_rosenbergii.jpg")
 Much of the research on *M. Rosenbergii* in the region is categorised as fisheries (77), followed by Marine and Freshwater Biology (46), Biochemistry & Molecular Biology (21), Veterinary Sciences (20), Zoology (13), Immunology (12) amongst others.
   
 **Research summary**  
-The majority of the research effort on *Macrobachium rosenbergii* is directed towards maximising aquaculture yield to increase economic gain of shrimp farmers. So the research is broadly concerned with disease prevention/treatment, nutrition, stocking densities, reproductive success, and genetic make up of broodstock. Understanding the diseases of *M. rosenbergii* - such as *L. garvieae* a bacteria that infects shrimps (Dangwetngam, M. and Suanyuk, N. 2014), and White Tail Disease virus which causes large scale mortality in aquaculture populations - can enable treatments and preventative strategies to be adopted [@Bonami_2011]. Improving yield of shrimp farmers has led many to look to the genetic quality of broodstock - analysing the parentage of existing broodstock, as well as comparing this with wild samples [@Karaket_2012; @Nguyen_Thanh_2015]. This genetic analysis can then help develop a more successful breeding strategy [@Thanh_2010]. 
+The majority of the research effort on *Macrobrachium rosenbergii* is directed towards maximising aquaculture yield to increase economic gain of shrimp farmers. So the research is broadly concerned with disease prevention/treatment, nutrition, stocking densities, reproductive success, and genetic make up of broodstock. Understanding the diseases of *M. rosenbergii* - such as *L. garvieae* a bacteria that infects shrimps (Dangwetngam, M. and Suanyuk, N. 2014), and White Tail Disease virus which causes large scale mortality in aquaculture populations - can enable treatments and preventative strategies to be adopted [@Bonami_2011]. Improving yield of shrimp farmers has led many to look to the genetic quality of broodstock - analysing the parentage of existing broodstock, as well as comparing this with wild samples [@Karaket_2012; @Nguyen_Thanh_2015]. This genetic analysis can then help develop a more successful breeding strategy [@Thanh_2010]. 
 
 The nutritional composition of feed given to farmed *M. rosenbergii* is another common theme of research in the literature, as well fed shrimps grow bigger and reproduction is increased [@Kangpanich_2016]. However for shrimp farmers in the Mekong Delta region of Vietnam, identifying non commercial feed options - due to affordability issues- is key [@Hien_2005]. Understanding how eye stalks inhibit reproduction in female *M. rosenbergii*, as well as understanding how sex differentiation occurs and when to intervene to create all male stock are some of the reproductive focussed areas of research covered in the literature [@Sripiromrak_2014; @Jung_2016; @Rungsin_2012].
 
@@ -226,11 +226,11 @@ Some research doesn't specify anything more than the country such as in a study 
   
 ### Patent activity
   
-The top cited patent involving *M. rosenbergii* is regarding feed composition for shrimps in aquaculture settings [WO_2008_084074_A2](https://www.lens.org/lens/patent/WO_2008_084074_A2). The invention specifies a range of percentage compositions of lipid:carbohydrate:protein, differing nutritional sources, particle size and types - as an alternative to live feed for shrimp larvae. 
+The top cited patent involving *M. rosenbergii* is regarding feed composition for shrimps in aquaculture settings [WO2008084074A2](https://www.lens.org/lens/patent/WO_2008_084074_A2). The invention specifies a range of percentage compositions of lipid:carbohydrate:protein, differing nutritional sources, particle size and types - as an alternative to live feed for shrimp larvae. 
 
-The largest family for a patent application associated with *M. rosenbergii* is for another type of feed, this time for preparation and use of methionylmethionine as a feed additive for fish and crustaceans [US_2010_0098801_A1](https://www.lens.org/lens/patent/US_2010_0098801_A1).
+The largest family for a patent application associated with *M. rosenbergii* is for another type of feed, this time for preparation and use of methionylmethionine as a feed additive for fish and crustaceans [US20100098801A1](https://www.lens.org/lens/patent/US_2010_0098801_A1).
 
-You can search for patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=full_text:(%22Macrobachium%20rosenbergii%22)%20OR%20full_text:(%22Giant%20River%20Prawn%22)%20OR%20full_text:(%22Giant%20Freshwater%20Prawn%22)&l=en&types=Patent%20Application,Granted%20Patent&types=Patent%20Application&types=Granted%20Patent&preview=true).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Macrobrachium%20rosenbergii%22)%20OR%20abstract:(%22Macrobrachium%20rosenbergii%22)%20OR%20claims:(%22Macrobrachium%20rosenbergii%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/167817) public collection. 
 
 ## *Nypa fruticans*
 
@@ -288,9 +288,10 @@ Selangor and Muar rivers of Malaysia were discovered to contain mudskipper popul
 
 ### Patent activity
 
-There are 10 patent documents for *Nypa fruticans*, the most commonly cited document is for a tnf-alpha and nitric oxide production inhibitor using an extract from the plant body of the palm [JP_2007008817_A](https://www.lens.org/lens/patent/JP_2007008817_A).
+There are 10 patent documents for *Nypa fruticans*, the most commonly cited document is for a tnf-alpha and nitric oxide production inhibitor using an extract from the plant body of the palm [JP2007008817A](https://www.lens.org/lens/patent/JP_2007008817_A).
 
-You can search for patent data for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Nypa%20fruticans%22)%20OR%20abstract:(%22Nypa%20fruticans%22)%20OR%20claims:(%22Nypa%20fruticans%22)&l=en&types=Patent%20Application&types=Granted%20Patent&preview=true).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Nypa%20fruticans%22)%20OR%20abstract:(%22Nypa%20fruticans%22)%20OR%20claims:(%22Nypa%20fruticans%22)&l=en&types=Patent%20Application&types=Granted%20Patent&preview=true) or view [the Lens](https://www.lens.org/lens/collection/167814) public collection. 
+
 
 ## *Oreochromis niloticus*
 
@@ -351,7 +352,7 @@ Some more specific locations are mentioned in the literature such as a study sam
   
 The preparation and use of methionylmethionine as feed additive for fish and crustaceans [US_2015_0223495_A1](https://www.lens.org/lens/patent/US_2015_0223495_A1) is the patent document associated with *O. niloticus* with the largest patent family.
 
-A public collection is available for this species on [the Lens](https://www.lens.org/lens/collection/24913).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Oreochromis%20niloticus%22)%20OR%20abstract:(%22Oreochromis%20niloticus%22)%20OR%20claims:(%22Oreochromis%20niloticus%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/24913) public collection. 
 
 ## *Penaeus mondon*
 - **Species name:** *Penaeus monodon*  
@@ -399,7 +400,7 @@ Specialised Feed composition for aquatic organisms [WO_2008_084074_A2](https://w
   
 This patent application is for methods of delivering dsRNA into invertebrate marine organisms such as shrimps, to illicit an immune response [US_2005_0080032_A1](https://www.lens.org/lens/patent/US_2005_0080032_A1). This includes methods of delivery of the dsRNA i.e. whether it is injected, ingested in a feed medium, or placed within an algae that is ingested.In addition methods of identifying genes in invertebrates that are involved in immune responses are also included.  
 
-A public collection for this species is available on [the Lens](https://www.lens.org/lens/collection/24679).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Penaeus%20monodon%22)%20OR%20abstract:(%22Penaeus%20monodon%22)%20OR%20claims:(%22Penaeus%20monodon%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/24679) public collection.
 
 ## *Pomacea canaliculata*
 
@@ -460,7 +461,8 @@ China (Yuyao, Taizhou, Fuzhou, Guangzhou, Nanning, Kunming) [@Bai_2011], Japan (
 
 There are 114 patent documents for *Pomacea canaliculata*, the most commonly cited patent document is for a modified plant chemical called 'saponin' that can be used to kill these molluscs in areas where they are considered a pest [US20070196517A1](https://www.lens.org/lens/patent/US_2007_0196517_A1).
 
-A public collection is available for this species on [the Lens](https://www.lens.org/lens/collection/24984).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Pomacea%20canaliculata%22)%20OR%20abstract:(%22Pomacea%20canaliculata%22)%20OR%20claims:(%22Pomacea%20canaliculata%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/24984) public collection.
+
 
 ## *Vibrio harveyi*
 - **Species name:** *Vibrio harveyi*
@@ -501,11 +503,11 @@ Much of the research referencing specific locations for *V. harveyi* is from inv
     
 ### Patent activity
 
-Nucleic acid and amino acid sequences relating to pseudomonas aeruginosa for methods for the detection, prevention and treatment of pathological conditions resulting from bacterial infection including *V. harveyi* [US_6551795_B1](https://www.lens.org/lens/patent/US_6551795_B1).
+Nucleic acid and amino acid sequences relating to pseudomonas aeruginosa for methods for the detection, prevention and treatment of pathological conditions resulting from bacterial infection including *V. harveyi* [US6551795B1](https://www.lens.org/lens/patent/US_6551795_B1).
   
-Microorganisms for therapy wherein the microorganisms gather in inflamed or cancerous tissues and cause cells to become leaky, resulting in production of antibodies, one such type of microorganism is attenuated Vibrio [US_2007_0212727_A1](https://www.lens.org/lens/patent/US_2007_0212727_A1) 
+Microorganisms for therapy wherein the microorganisms gather in inflamed or cancerous tissues and cause cells to become leaky, resulting in production of antibodies, one such type of microorganism is attenuated Vibrio [US20070212727A1](https://www.lens.org/lens/patent/US_2007_0212727_A1) 
   
-A public collection is available for this species on [the Lens](https://www.lens.org/lens/collection/24872).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Vibrio%20harveyi%22)%20OR%20abstract:(%22Vibrio%20harveyi%22)%20OR%20claims:(%22Vibrio%20harveyi%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/24872) public collection.
 
 ## *Vibrio parahaemolyticus*
 - **Species name:** *Vibrio parahaemolyticus*
@@ -551,8 +553,8 @@ Samples of seafood were analysed from Hong Kong, Indonesia, Thailand and Vietnam
   
 ### Patent activity
   
-The top cited patent document involving *V. parahaemolyticus*  is for identification of essential genes used to help *V. parahaemolyticus* multiply [US_2004_0029129_A1](https://www.lens.org/lens/patent/US_2004_0029129_A1) - a sequence of nucleic acids is used to understand which are the key important proteins in the bacteria and then drugs, or antibodies can be produced to prevent replication of the bacteria.
+The top cited patent document involving *V. parahaemolyticus*  is for identification of essential genes used to help *V. parahaemolyticus* multiply [US20040029129A1](https://www.lens.org/lens/patent/US_2004_0029129_A1) - a sequence of nucleic acids is used to understand which are the key important proteins in the bacteria and then drugs, or antibodies can be produced to prevent replication of the bacteria.
 
-The patent document with the largest family is for the use of a peptide as a therapeutic agent [WO_2009_043477_A2](https://www.lens.org/lens/patent/WO_2009_043477_A2) when someone has a *V. parahaemolyticus* infection.
+The patent document with the largest family is for the use of a peptide as a therapeutic agent [WO2009043477A2](https://www.lens.org/lens/patent/WO_2009_043477_A2) when someone has a *V. parahaemolyticus* infection.
 
-A public collection is available for this species on [the Lens](https://www.lens.org/lens/collection/24760).
+Search the titles, abstracts and claims of patent documents for this species on [the Lens](https://www.lens.org/lens/search?q=title:(%22Vibrio%20parahaemolyticus%22)%20OR%20abstract:(%22Vibrio%20parahaemolyticus%22)%20OR%20claims:(%22Vibrio%20parahaemolyticus%22)&l=en&preview=true) or view [the Lens](https://www.lens.org/lens/collection/24760) public collection.
