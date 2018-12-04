@@ -78,7 +78,7 @@ The Barramundi or Asian seabass (*Lates calcarifer*) is a widely distributed spe
 
 *Lates calcarifer* are demersal, inhabiting coastal waters, estuaries, lagoons, and rivers; they are found in clear to turbid water, usually within a temperature range of 26−30 °C. This species does not undertake extensive migrations within or between river systems, which has presumably influenced establishment of genetically distinct stocks in Northern Australia.
 
-```{r echo=FALSE, fig.cap="[By Nick Thorne 2001, Licensed under Creative Commons Attribution](https://upload.wikimedia.org/wikipedia/commons/b/be/Barramundi.jpg)", fig.align='center'}
+```{r echo=FALSE, fig.cap="Lates calcarifer, Nick Thorne 2001, Creative Commons Attribution", fig.align='center'}
 knitr::include_graphics("images_species/Barramundi.jpg")
 ```
 
@@ -135,7 +135,7 @@ The dominant shrimp culture species in the world, they are benthic - occurring i
 
 Asia has seen a phenomenal increase in the production of *L. vannamei*, no production was reported to FAO in 1999, but by 2004 it was nearly 1,116,000 tonnes having overtaken the production of *P. monodon* in China, Taiwan Province of China and Thailand. However, due to fears of importing exotic diseases it is only experimentally farmed in Cambodia, India, Malaysia, Myanmar and the Philippines. Thailand and Indonesia both freely permit its commercial culture but have official restrictions, so that only SPF/SPR broodstock may be imported.^[Source FAO [http://www.fao.org/fishery/culturedspecies/Penaeus_vannamei/en](http://www.fao.org/fishery/culturedspecies/Penaeus_vannamei/en)]
 
-```{r echo=FALSE, fig.cap="Penaeusvannamei, By Xufanc (Own work)", fig.align='center'}
+```{r echo=FALSE, fig.cap="Litopenaeus vannamei, By Xufanc (Own work)", fig.align='center'}
 knitr::include_graphics("images_species/Litopenaeus_vannamei55.jpg")
 ```
 
@@ -203,7 +203,7 @@ Global production of the Giant River Prawn has grown since its inception in the 
 **First description**  
 *M. rosenbergii* was first described by Johannes De Man in 1879 as *Palaemon rosenbergii* in the publication: De Man, 1879, Notes Leyden Mus., 1:167, however in 1966 Johnson renamed it to its current nomenclature of *Macrobrachium rosenbergii*.^[L.B. Holthius, L.B. (1980) [http://www.fao.org/fi/oldsite/eims_search/advanced_s_result.asp?JOB_NO=AC477](http://www.fao.org/fi/oldsite/eims_search/advanced_s_result.asp?JOB_NO=AC477)]
 
-```{r echo=FALSE, fig.cap="Macrobrachium rosenbergii, By Citron CC BY-SA 3.0", fig.align='center'}
+```{r echo=FALSE, fig.cap="Macrobrachium rosenbergii, By Citron CC BY-SA 3.0", fig.align='center', out.width='70%'}
 knitr::include_graphics("images_species/Macrobrachium_rosenbergii.jpg")
 ```
 
@@ -245,7 +245,7 @@ The trunk of *Nypa fruticans* grows underground with the leaves, female flower i
 
 *Nypa fruticans* is used for a wide range of commercial goods and services including- thatching and for making alcoholic drinks through a fermentation process.^[Source IUCN Red List [http://www.iucnredlist.org/details/178800/0](http://www.iucnredlist.org/details/178800/0)] It is an important emerging source of biofuel,  capable of producing ethanol ranging from 6,480 to 20,000 L/ha, a higher yield than sugar cane.^[Source FAO [http://agris.fao.org/agris-search/search.do?recordID=MY2015000742](http://agris.fao.org/agris-search/search.do?recordID=MY2015000742)] It is considered to be of 'Least concern as it is widespread and locally common.^[Source IUCN Red List [http://www.iucnredlist.org/details/178800/0](http://www.iucnredlist.org/details/178800/0)]
 
-```{r echo=FALSE, fig.cap="Nipa palms, By Qaalvin, own work", fig.align='center'}
+```{r echo=FALSE, fig.cap="Nipa palms, By Qaalvin, own work", fig.align='center', out.width='70%'}
 knitr::include_graphics("images_species/Nipa_palms.jpg")
 ```
 
@@ -310,7 +310,7 @@ Commercial aquaculture of *O. niloticus* dates back to ancient Egypt, as they ar
 *O. niloticus* has been taken from its native African and Israeli habitats to tropical and subtropical waters all over the world for aquaculture. Nile tilapia from Japan were introduced to Thailand in 1965, and from Thailand they were sent to the Philippines. Nile tilapia from Cote d'Ivoire were introduced to Brazil in 1971, and from Brazil they were sent to the United States in 1974. In 1978, Nile tilapia was introduced to China, which leads the world in tilapia production and consistently produced more than half of the global production in every year from 1992 to 2003.^[Source FAO [http://www.fao.org/fishery/culturedspecies/Oreochromis_niloticus/en](http://www.fao.org/fishery/culturedspecies/Oreochromis_niloticus/en)] 
 
 
-```{r echo=FALSE, fig.cap="Oreochromis niloticus, By Bjørn Christian Tørrissen, own work", fig.align='center'}
+```{r echo=FALSE, fig.cap="Oreochromis niloticus, By Bjørn Christian Tørrissen, own work", fig.align='center', out.width='70%'}
 knitr::include_graphics("images_species/Oreochromis-niloticus-Nairobi.jpg")
 ```
 
@@ -370,7 +370,7 @@ There are two specimens of *P. monodon* recorded on Vertnet, both are held at th
 **First description**  
 Penaeus monodon was first described by Johan Christian Fabricus in 1798, but clarification of which species this name referred to came later in 1949, when Lipke Holthuis showed it to be the type species of the genus *Penaeus*.^[L.B.Holthius (1949) [https://decapoda.nhm.org/pdfs/25756/25756.pdf](https://decapoda.nhm.org/pdfs/25756/25756.pdf)]  
 
-```{r echo=FALSE, fig.cap="Penaeus monodon, CSIRO", fig.align='center'}
+```{r echo=FALSE, fig.cap="Penaeus monodon, CSIRO", fig.align='center', out.width='70%'}
 knitr::include_graphics("images_species/CSIRO_ScienceImage_2992_The_Giant_Tiger_Prawn.jpg")
 ```
 
@@ -415,7 +415,7 @@ The activity rate of *Pomacea canaliculata* varies highly with the water tempera
 
 Females lay clusters of bright pink eggs attached to solid surfaces and reproductive output can be enormous with clutch sizes of up to 1000, but averages are probably 200-300. Clutches are laid every few weeks.^[Source IUCN ISSG [http://www.iucngisd.org/gisd/species.php?sc=135](http://www.iucngisd.org/gisd/species.php?sc=135)]
 
-```{r echo=FALSE, fig.cap="Pomacea canaliculata, H. Zell (own work)", fig.align='center'}
+```{r echo=FALSE, fig.cap="Pomacea canaliculata, H. Zell (own work)", fig.align='center', out.width='70%'}
 knitr::include_graphics("images_species/Pomacea_canaliculata_01.jpg")
 ```
 
@@ -525,7 +525,7 @@ Search the titles, abstracts and claims of patent documents for this species on 
 **First description**  
 *Vibrio parahaemolyticus* was named by Sazaki et al.in 1963, further to the work of Fujino et al. in 1951 who originally named the species *Pasteurella parahaemolytica*.^[Source GBIF [https://www.gbif.org/species/5427673](https://www.gbif.org/species/5427673)].  
 
-```{r echo=FALSE, fig.cap="Vibrio parahaemolyticus, Janice Carr/CDC", fig.align='center'}
+```{r echo=FALSE, fig.cap="Vibrio parahaemolyticus, Janice Carr/CDC", fig.align='center', out.width='70%'}
 knitr::include_graphics("images_species/Vibrio_parahaemolyticus_01.png")
 ```
 

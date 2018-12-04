@@ -173,6 +173,8 @@ sankeyNetwork(Links = links, Nodes = nodes,
                      sinksRight=FALSE, fontSize = 9, fontFamily = "Arial")
 ```
 
+<!--- insert images/sankeygenussubject.jpg here for pdf build--->
+
 Figure \@ref(fig:sankeygenussubject) provides the first indication that marine research may be directed in multiple directions, from basic taxonomic and ecological research, to commercially oriented research that focuses on enhancing productivity and addressing problems such as pathogens for commercially valuable species. 
 
 In practice, research on species takes place in networks that can be explored on multiple levels. 
@@ -267,6 +269,7 @@ sankeyNetwork(Links = links, Nodes = nodes,
                      sinksRight=FALSE, fontSize = 10, fontFamily = "Arial")
 ```
 
+<!--- insert sankeyfunding here for pdf build--->
 Three points stand out in Figure \@ref(fig:sankeyfunding). The first of these is a clear investment stream in fisheries research in the case of Thailand that is also strong in the case of Marine & Freshwater Biology. The second point is the that Vietnam's research investment is marked by an emphasis in Chemistry and Pharmacology (as are research investments from Korea). Investment by Japan is more evenly balanced but also includes Chemistry and Pharmacology while investments from the European Union (through the European Commission programmes) are focused on Fisheries, Marine & Freshwater Biology and Zoology. While we must emphasise that our ability to view the data is partial, and constrained by data variability, we can nevertheless detect the main orientations of research investments as we will see in more detail below.   
 
 ### The Organisational Landscape

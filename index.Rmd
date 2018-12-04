@@ -5,6 +5,7 @@ date: "2018"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
+classoption: openany
 bibliography: [crossrefcopy.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
