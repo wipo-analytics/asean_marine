@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: asean_marine.aux
+The style file: apalike.bst
+Reallocated field_info (elt_size=4) to 10324 items from 5000.
+Database file #1: crossrefcopy.bib.bib
+Database file #2: packages.bib.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
+Warning--to sort, need editor or key in Baker_1998
+Warning--empty journal in De_La_Cruz_2001
+Warning--empty title in Duponchelle_1999
+Warning--empty journal in Wang_2008
+Warning--empty booktitle in Kamaruzaman_2007
+Warning--empty journal in Cabrera_2006
+Warning--empty journal in Bai_2011
+Warning--empty journal in Brey_2015
+You've used 242 entries,
+            1935 wiz_defined-function locations,
+            2022 strings with 66395 characters,
+and the built_in function-call counts, 115223 in all, are:
+= -- 10891
+> -- 6671
+< -- 55
++ -- 2442
+- -- 2386
+* -- 11190
+:= -- 20339
+add.period$ -- 723
+call.type$ -- 242
+change.case$ -- 2392
+chr.to.int$ -- 236
+cite$ -- 251
+duplicate$ -- 3391
+empty$ -- 6935
+format.name$ -- 2693
+if$ -- 21610
+int.to.chr$ -- 7
+int.to.str$ -- 0
+missing$ -- 228
+newline$ -- 1206
+num.names$ -- 724
+pop$ -- 1928
+preamble$ -- 1
+purify$ -- 2403
+quote$ -- 0
+skip$ -- 2492
+stack$ -- 0
+substring$ -- 8061
+swap$ -- 267
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1450
+warning$ -- 8
+while$ -- 878
+width$ -- 0
+write$ -- 3119
+(There were 8 warnings)

@@ -124,7 +124,7 @@ Figure \@ref(fig:sankeygenussubject) presents a Sankey diagram of the flow betwe
 
 We can clearly see in Figure \@ref(fig:sankeygenussubject) that research on Penaeus (e.g. Tiger Prawn) genus primarily flows into fisheries followed by Marine and Freshwater Biology. The link between research on Penaeus and Vibrio is represented by Immunology and Veterinary Science. In contrast work on mangroves (represented by Avicennia and Rhizophora) is more concentrated in Environmental Sciences (for Avicennia) and additionally Marine and Freshwater Biology, Ecology and Plant Sciences for Rhizophora. This suggests a more basic research orientation for our mangrove species as discussed above.  
 
-```{r sankeygenussubject, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width='100%', fig.cap="Flows of Publications on Species into Subject Areas"}
+```{r sankeygenussubject, eval=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width='100%', fig.cap="Flows of Publications on Species into Subject Areas"}
 library(networkD3)
 library(tidyverse)
 library(readxl)
@@ -170,10 +170,9 @@ links$IDtarget=match(links$target, nodes$name)-1
 sankeyNetwork(Links = links, Nodes = nodes,
                      Source = "IDsource", Target = "IDtarget",
                      Value = "value", NodeID = "name", 
-                     sinksRight=FALSE, fontSize = 9, fontFamily = "Arial")
+                     sinksRight=FALSE, fontSize = 12, fontFamily = "Arial")
 ```
 
-<!--- insert images/sankeygenussubject.jpg here for pdf build--->
 
 Figure \@ref(fig:sankeygenussubject) provides the first indication that marine research may be directed in multiple directions, from basic taxonomic and ecological research, to commercially oriented research that focuses on enhancing productivity and addressing problems such as pathogens for commercially valuable species. 
 
@@ -225,7 +224,7 @@ In considering Figure \@ref(fig:fundingnetwork) we immediately observe the domin
 
 As noted above, our ability to view funding networks is presently partial. However, we can also gain an insight into the subject areas where research investments are being made. Figure \@ref(fig:sankeyfunding) aggregates the funding agencies by country and displays the subject areas of research outputs focusing on the top subject areas.
 
-```{r sankeyfunding, echo = FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width='100%', fig.cap="Funding Flows through Publications on Marine Genetic Resources in the ASEAN region"}
+```{r sankeyfunding, eval=TRUE, echo = FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width='100%', fig.cap="Funding Flows through Publications on Marine Genetic Resources in the ASEAN region"}
 library(networkD3)
 library(tidyverse)
 library(readxl)
@@ -266,10 +265,10 @@ links$IDtarget=match(links$target, nodes$name)-1
 sankeyNetwork(Links = links, Nodes = nodes,
                      Source = "IDsource", Target = "IDtarget",
                      Value = "n", NodeID = "name", 
-                     sinksRight=FALSE, fontSize = 10, fontFamily = "Arial")
+                     sinksRight = FALSE, fontSize = 12, fontFamily = "Arial")
 ```
 
-<!--- insert sankeyfunding here for pdf build--->
+
 Three points stand out in Figure \@ref(fig:sankeyfunding). The first of these is a clear investment stream in fisheries research in the case of Thailand that is also strong in the case of Marine & Freshwater Biology. The second point is the that Vietnam's research investment is marked by an emphasis in Chemistry and Pharmacology (as are research investments from Korea). Investment by Japan is more evenly balanced but also includes Chemistry and Pharmacology while investments from the European Union (through the European Commission programmes) are focused on Fisheries, Marine & Freshwater Biology and Zoology. While we must emphasise that our ability to view the data is partial, and constrained by data variability, we can nevertheless detect the main orientations of research investments as we will see in more detail below.   
 
 ### The Organisational Landscape
@@ -310,7 +309,7 @@ This form of network analysis usefully displays the relationship between researc
 
 Figure \@ref(fig:authornetwork) revealed a research cluster focused around Chau Van Minh at the Vietnam Academy of Science and Technology (VAST) in Hanoi whose work, mainly conducted in collaboration with Phan Van Kiem (now at Chungham National University in South Korea), has included an explicit focus on pharmaceutical compounds from Marine Natural Products [@Van_Minh_2017; @Quang_2011; @Thao_2015; @Thao_2015a]. As we saw in Figure \@ref(fig:sankeyfunding) this appears to reflect the underlying research investments by funding organisations in Vietnam. We can gain a clearer view of the genera involved in research directed towards chemistry, pharmacology and biotechnology by removing dominant genera such as Peneaus and restricting subject areas to those in chemistry, pharmacology and biotechnology. This data is displayed in Figure \@ref(fig:pharmasankey).  
 
-```{r pharmasankey, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width='120%', fig.cap="Pharmaceutical Focused Research for Marine Genetic Resources in the ASEAN region"}
+```{r pharmasankey, eval=TRUE, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width='100%', fig.cap="Pharmaceutical Focused Research for Marine Genetic Resources in the ASEAN region"}
 narrow_species_subject <- species_subject %>% filter(target == "Biochemistry & Molecular Biology" | target == "Biotechnology & Applied Microbiology" | target == "Pharmacology & Pharmacy" | target == "Chemistry, Applied" | target == "Chemistry, Organic" | target == "Chemistry, Multidisciplinary" | target == "Integrative & Complementary Medicine" | target == "Chemistry, Physical" | target == "Chemistry, Analytical" | target == "Chemistry, Medicinal") 
 
 # aggregate on the genus and target to remove duplicates
@@ -345,8 +344,7 @@ links$IDtarget=match(links$target, nodes$name)-1
 sankeyNetwork(Links = links, Nodes = nodes,
                      Source = "IDsource", Target = "IDtarget",
                      Value = "n", NodeID = "name", 
-                     sinksRight=FALSE, fontFamily = "Arial", fontSize = 10)
-
+                     sinksRight = FALSE, fontFamily = "Arial", fontSize = 12)
 ```
 
 The top genus emerging in this area are sea snails (gastropods) in the Conus genera with a total of 37 publications in the ASEAN data. Top cited research on Conus includes collaborative research between the University of the Philippines and the University of Utah in the 1990s to identify a Novel Alpha Conotoxin and Omega Conotoxin from *Conus striatus* Venom, along with other research on a delta conotoxin from *Conus gloriamaris* [@Ramilo_1992; @Shon_1994]. More recent work at the University of the Philippines with the University of Utah has involved characterisation of the complete mitochondrial genome of *Conus tribblei* and the structural features of conopeptide genes focusing on gene encoded peptide toxins [@Barghi_2015]. In Vietnam, members of the Conus genus have also been a focus of research between the University of Nha Trang and CNRS in France concentrating on the identification of novel venom compounds including the use of novel proteomic approaches [@Nguyen_2013; @Nguyen_2014; @Nguyen_2014a; @Nguyen_2014b]

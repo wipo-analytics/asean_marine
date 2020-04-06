@@ -1,0 +1,129 @@
+---
+title: "Untitled"
+author: "Paul Oldham"
+date: "16/10/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+When working with lots of references in a bibtex file with bookdown you may run into build errors when writing to bookdown::pdf_book() arising from duplicate entries. 
+
+In some cases the duplicates might be actual duplicates. In other cases an author may have published more than one article in a year. So, you can't simply delete them. Trawling through a bibtex file with hundreds of entries (like mine) is a pain. So, you can make your life easier when checking by using `bib2df` to convert the bibtex file to a data frame and then test for an review the duplicates. 
+
+A bibtex file with 292 entries for a new report I am working on is here [insert]. The message I get when building the pdf version is 
+
+"This is BibTeX, Version 0.99d (TeX Live 2015)
+The top-level auxiliary file: asean_marine.aux
+The style file: apalike.bst
+Database file #1: crossref.bib.bib
+Repeated entry---line 1992 of file crossref.bib.bib
+ : @article{Silva_2010
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2075 of file crossref.bib.bib
+ : @article{Nimrat_2011
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2159 of file crossref.bib.bib
+ : @article{Silva_2010 "
+
+So, if we only have a small number it is easiest to use the line reference to track through and delete as needed. 
+
+```{r}
+install.packages("bib2df")
+```
+
+```{r}
+library(bib2df)
+```
+
+```{r cars}
+load(crossref_copy.bib)
+```
+
+```{r}
+bib <- bib2df::bib2df("crossref_copy.bib") %>% 
+  arrange(BIBTEXKEY)
+
+# start by replacing NAs
+bib$DOI[bib$DOI == ""] <- "NA"
+
+bib <- bib %>% mutate(DOI = str_replace(DOI, "\\},", "NA"))
+
+bib$DOI <- replace_na(bib$DOI, "none")
+
+bib <- bib %>% mutate(DOI = str_replace(.$DOI, "NA", "none"))
+```
+
+```{r}
+bib
+```
+
+Next up we want to detect the duplicated entries. The message comes from the duplication in the BIBTEXKEY field so let's mark up the duplicates. We need to find all of the duplicates. R's duplicated function finds and marks the first duplicate rather than all of them. So we need to make the call twice and specify `fromLast=TRUE` in the second call. 
+
+My data is mainly articles. In cases where there is a duplicate DOI I immediately know that this is an actual duplicate. So, I can filter those out on input. I won't do that for walking through this. 
+
+```{r}
+library(tidyverse)
+
+
+# filter out the NA characters to prevent them showing as duplicate on DOIs
+
+doi <- bib %>% 
+  filter(DOI != "none") %>% 
+  arrange(BIBTEXKEY) %>% 
+  mutate(dupdoi = duplicated(DOI)) %>% 
+  filter(dupdoi == FALSE)
+
+duplicated_doi <- bib %>% 
+  filter(DOI != "none") %>% 
+  arrange(BIBTEXKEY) %>% 
+  mutate(dupdoi = duplicated(DOI)) %>% 
+  filter(dupdoi == TRUE) %>% 
+  select(DOI, everything())
+
+nodoi <- bib %>% 
+  filter(DOI == "none")
+
+bib1 <- doi %>% 
+  bind_rows(., nodoi) %>% 
+  arrange(BIBTEXKEY) %>% 
+  mutate(alldups = duplicated(BIBTEXKEY) | duplicated(BIBTEXKEY, fromLast = TRUE)) %>% 
+  select(alldups, everything())
+
+
+
+
+```
+
+Next up we delete the entries with duplicate DOIs. 
+
+```{r}
+bib1 <- bib %>% filter(doidup == FALSE) %>% 
+  select(alldups, everything())
+```
+
+Now, I just need to review those cases where the BIBTEXKEY is identical.
+
+```{r}
+bib1 %>% filter(doidup == FALSE) %>%  
+  filter(alldups == TRUE) %>% 
+  arrange(BIBTEXKEY) %>% View()
+```
+
+
+
+
+Next up we want to review the duplicated entries. Before we do that however we can save ourselves some additional work by testing whether the titles are also duplicated. That will tell us if we have a true duplicate or 
+
+```{r}
+bib %>% filter(alldups == TRUE) %>%
+  select(BIBTEXKEY, alldups, doidup, duplicated, TITLE, YEAR) %>% 
+  arrange(BIBTEXKEY) %>% View()
+```
+

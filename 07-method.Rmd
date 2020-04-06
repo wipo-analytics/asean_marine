@@ -75,7 +75,7 @@ Building on previous work we used a version of the [Global Names Index](http://g
 
 Marine species in the species data were identified using a text version of the [World Register of Marine Species](http://www.marinespecies.org/). 
 
-The species names and species like names in the Global Names Index are raw names and include many spelling variations and synonyms for the same species. To resolve these issues we used the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) API or web service through the ROpenSci [rgbif]() and [taxize]().
+The species names and species like names in the Global Names Index are raw names and include many spelling variations and synonyms for the same species. To resolve these issues we used the [Global Biodiversity Information Facility (GBIF)](https://www.gbif.org/) API or web service through the ROpenSci `rgbif` and `taxize` packages by Scott Chamberlain and colleagues in R [@R-taxize; @R-rgbif].
 
 In an additional step the [Lifewatch Belgium](http://www.lifewatch.be/data-services/?cache=1521050271) data service was used for bulk retrieval of information on Aphia accepted names and available environment information from the WoRMS online database. 
 
@@ -85,25 +85,28 @@ Species occurrence data was downloaded from GBIF for each ASEAN country and an a
 
 The geographic locations of research organisations involved in marine research were converted from abbreviated form in Web of Science to longer forms suitable for georeferencing. 
 
-We used the R `placement` package to access the Google Maps API to geocode organisation names in Web of Science data. The data was visualized in Tableau. 
+We used the R `placement` package to access the Google Maps API to geocode organisation names in Web of Science data [@R-placement]. The data was visualized in Tableau. 
 
 ## Data Processing
 
 Name cleaning for person and organisation names was performed in VantagePoint from Search Technology Inc. 
 
-The majority of data processing was performed in the R programming language [@r_core]. Primary data processing was performed using the [tidyverse](https://github.com/tidyverse/tidyverse) packages developed by Hadley Wickham and colleagues. The [refinr](https://github.com/ChrisMuir/refinr) package by Chris Muir was used for additional name cleaning. The [geofacet](https://github.com/hafen/geofacet) package by Ryan Hafen was used in the creation of faceted plots. 
+The majority of data processing was performed in the R programming language [@r_core]. Primary data processing was performed using the [tidyverse](https://github.com/tidyverse/tidyverse) suite of packages developed by Hadley Wickham and colleagues [@R-tidyverse]. The [refinr](https://github.com/ChrisMuir/refinr) package by Chris Muir was used for additional name cleaning [@R-refinr]. The [geofacet](https://github.com/hafen/geofacet) package by Ryan Hafen was used in the creation of faceted plots [@R-geofacet]. 
 
-ROpenSci packages were used extensively during the research, notably [rgbif](https://github.com/ropensci/rgbif), [taxize](https://github.com/ropensci/taxize) and [rcrossref](https://github.com/ropensci/rcrossref) developed and maintained by Scott Chamberlain and colleagues. 
+ROpenSci packages were used extensively during the research, notably [rgbif](https://github.com/ropensci/rgbif), [taxize](https://github.com/ropensci/taxize) and [rcrossref](https://github.com/ropensci/rcrossref) developed and maintained by Scott Chamberlain and colleagues [@R-rcrossref]. 
 
-Text mining was performed in Vantage Point and in R using the [tidytext](https://github.com/juliasilge/tidytext) package from Julia Silge and Daniel Robinson [@Fay_2018]
+Text mining was performed in Vantage Point from Search Technology Inc and in R using the [tidytext](https://github.com/juliasilge/tidytext) package from Julia Silge and Daniel Robinson [@Fay_2018].
 
 ## Visualisation
 
 Visualisation of the data outside the mapping using leaflet was carried out as follows
 
-1. Exploratory graphs were created in R with ggplot2 and later with geofacet. The main graphing was conducted in Tableau
+1. Exploratory graphs were created in R with `ggplot2` and later with geofacet [@R-ggplot2]. The main graphing was conducted in Tableau.
 
-2. Networks were visualised in Gephi
+2. Networks were visualised in Gephi.
 
-3. Sankey diagrams were created in R using the [networkD3 package](https://christophergandrud.github.io/networkD3/)
+3. Sankey diagrams were created in R using the [networkD3 package](https://christophergandrud.github.io/networkD3/) [@R-networkD3].
 
+## Report Writing
+
+The report was written in RStudio with `rmarkdown` by JJ Allaire and Yihiu Xie using the `bookdown` package by Yihiu Xie [@R-rmarkdown; @R-bookdown]. 

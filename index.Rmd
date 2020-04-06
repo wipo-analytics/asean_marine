@@ -1,7 +1,7 @@
 --- 
 title: "The Scientific and Patent Landscape for Marine Genetic Resources in Southeast Asia"
 author: ""
-date: "2018"
+date: "2019"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: book
@@ -10,16 +10,19 @@ bibliography: [crossrefcopy.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
 github-repo: wipo-analytics/asean_marine
+includes:
+  in_header: google_analytics.html
 description: "This report reviews the scientific and patent landscapes for marine genetic resources in ten Southeast Asian countries"
 ---
+# Welcome {-}
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+Welcome to the website of the WIPO patent landscape report on marine genetic resources for ten Southeast Asian countries. This is the electronic version of the 2019 [WIPO Patent Landscape Report: Marine Genetic Resources](https://www.wipo.int/edocs/pubdocs/en/wipo_pub_947_6.
+pdf).
+
+```{r front, echo = FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width='100%'}
+knitr::include_graphics("images/asean_frontcover.png")
 ```
 
-# {-}
-
-This report is subject to minor proof reading and editorial changes.
 
 # Acknowledgements {-}
 
@@ -29,4 +32,4 @@ The report is based on data from a combination of Clarivate Analytics Web of Sci
 
 # Authorship {-}
 
-The report was written by Dr. Paul Oldham (Senior Adjunct Fellow at the United Nations University Institute for the Advanced Study of Sustainability and Industrial Fellow at the Manchester Institute of Innovation Research, Alliance Manchester Business School, University of Manchester). Ms. Nicola Shale served as the ecologist for the project and Ms. Jasmine Kindness as Research Assistant. The report was prepared under the coordination of and with contributions by Ms. Irene Kitsara (WIPO). 
+The report was written by Dr. Paul Oldham (Senior Adjunct Fellow at the United Nations University Institute for the Advanced Study of Sustainability and Industrial Fellow at the Manchester Institute of Innovation Research, Alliance Manchester Business School, University of Manchester). Ms. Nicola Shale served as the ecologist for the project and Ms. Jasmine Kindness as Research Assistant. The report was prepared under the coordination of and with contributions by Ms. Irene Kitsara (WIPO).
